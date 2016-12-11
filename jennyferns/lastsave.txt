@@ -1,0 +1,1 @@
+> Tec_gemmdata <- fernsize[ which(fernsize$binomial=='Tectaria gemmifera'),]

@@ -1,0 +1,88 @@
+Forest	DATE	Transect	ACCURACY_m	ALTITUDE_m	SLOPE	ASPECT	Disturbance_level	Disturbance_cause	River01	AVERAGE PRISM TALLY	DEADWOOD	STUMPS
+Mpanga	11/10/2010	1	5	1185	Steep	NE	H			3.3	0	3
+Mpanga	11/10/2010	2	5	1175	Flat	E	L			5	3	3
+Mpanga	11/11/2010	3	5	1183	Flat	NW	H		near	3	6	4
+Mpanga	11/12/2010	4	5	1166	Flat	NE	L		near	4	1	3
+Mpanga	11/12/2010	5	5	1185	Steep	W	L			4	2	5
+Mpanga	13/11/2010	6	5	1179	Flat	W	L		waterlogging	5	0	2
+Mpanga	13/11/2010	7	5	1171	Medium	E	L			3.33	1	2
+Mpanga	14/11/2010	8	5	1166	Flat	NE	0		waterlogging	5	0	0
+Mpanga	14/11/2010	9	5	1183	Flat	E	L		waterlogging	5.66	0	1
+Mpanga	15/11/2010	10	5	1171	Medium	E	H			4.66	1	4
+Mpanga	15/11/2010	11	5	1182	Flat	E	0		waterlogging	3.6	2	0
+Mpanga	16/11/2010	12	5	1165	Steep	W	H			3.6	2	3
+Mpanga	16/11/2010	13	5	1188	Flat	W	0			4	2	0
+Mpanga	16/11/2010	14	5	1180	Medium	NW	H			3.6	3	4
+Mpanga	17/11/2010	15	5	1170	Flat	S	0		river	4	2	0
+Mpanga	17/11/2010	16	5	1178	Flat	E	0			4.33	1	0
+Mpanga	17/11/2010	17	5	1171	Flat	E	L			3.7	0	0
+Mpanga	18/11/2010	18	5	1170	Flat	E	0			3.3	0	0
+Mpanga	18/11/2010	19	5	1172	Flat	E	0			5	5	0
+Mpanga	18/11/2010	20	5	1189	Steep	SE	0			5.6	1	0
+Mpanga	19/11/2010	21	5	1159	Flat	NE	H	Drum		6.3	0	3
+Mpanga	19/11/2010	22	5	1173	Flat	S	0		river	4.3	3	0
+Mpanga	19/11/2010	23	5	1195	Medium	SE	0			4	2	0
+Mpanga	20/11/2010	24	5	1172	Flat	N	0		river	4	2	0
+Mpanga	20/11/2010	25	5	1178	Flat	NE	0			3	0	0
+Mpanga	20/11/2010	26	5	1187	Flat	W	H	Wind		4.6	4	0
+Mpanga	21/11/2010	27	5	1170	Flat	NE	0			4.6	0	0
+Mpanga	21/11/2010	28	5	1193	Steep	E	0			4.5	1	0
+Mpanga	22/11/2010	29	5	1201	Medium	SE	L			5	3	1
+Mpanga	22/11/2010	30	5	1185	Medium	SE	0			1	1	1
+Kituuza	10/08/2010	1	5	1177	Flat	S	0			10.3	1	3
+Kituuza	10/12/2010	2	5	1172	Medium	NW	L			5	4	4
+Kituuza	13/10/2010	3	5	1176	Steep	S	H			6.3	2	2
+Kituuza	14/10/2010	4	5	1165	Flat	NE	0			5.3	6	1
+Kituuza	14/10/2010	5	5	1174	Steep	SE	L			5.6	1	3
+Kituuza	15/10/2010	6	5	1217	Steep	S	0			5	4	1
+Kituuza	16/10/2010	7	5	1204	Steep	SW	H	Cocoa		3.6	3	1
+Kituuza	18/10/2010	8	5	1233	Medium	S	L	Cocoa		4.3	4	1
+Kituuza	18/10/2010	9	5	1233	Medium	s	H			3	4	4
+Kituuza	19/10/2010	10	5	1208	Medium	S	0			3.5	1	1
+Kituuza	20/10/2010	11	5	1173	Steep	NE	H	Lumbering		5	2	0
+Kituuza	20/10/2010	12	5	1191	Medium	SW	0			3.8	0	0
+Kituuza	21/10/2010	13	5	1260	Steep	S	0			3.3	1	0
+Kituuza	21/10/2010	14	5	1261	Steep	E	L			3	2	1
+Kituuza	22/10/2010	15	5	1189	Medium	SW	L			6.3	2	1
+Kituuza	22/10/2010	16	5	1177	Medium	S	H	Wind		4.6	1	0
+Kituuza	27/10/2010	17	5	1241	Steep	SE	H			2	3	10
+Wamala	12/09/2010	1	5	1216	Medium	SE	H			2.3	0	0
+Wamala	12/09/2010	2	5	1211	Steep	N	0			3.6	0	0
+Wamala	12/10/2010	3	5	1217	Medium	N	H	Agri		4	0	1
+Wamala	12/10/2010	4	5	1198	Medium	SE	H			5	1	5
+Wamala	12/11/2010	5	5	1210	Steep	NE	H			2.6	0	3
+Wamala	12/11/2010	6	5	1896	Steep	NW	L		valley	3	0	1
+Wamala	13/12/2010	7	5	1171	Steep	E	0		valley	3.6	2	0
+Wamala	13/12/2010	8	5	1170	Flat	NE	0			2.6	0	0
+Wamala	14/12/2010	9	5	1124	Medium	SW	H			3	1	2
+Wamala	14/12/2010	10	5	1181	Steep	W	H			4	0	4
+Wamala	15/12/2010	11	5	1159	Flat	S	H			2.6	0	0
+Wamala	18/12/2010	12	5	1198	Steep	E	H			4	0	3
+Ziika	01/07/2011	1	5	1159	Medium	N	L			2	1	2
+Ziika	01/07/2011	2	5	1155	Flat	NW	L		swamp	3.33	0	1
+Ziika	01/10/2011	3	5	1174	Medium	E	L			3.6	0	1
+Ziika	01/10/2011	4	5	1166	Steep	SE	0			3.6	0	0
+Ziika	01/10/2011	5	5	1160	Medium	NE	L			2.6	0	1
+Ziika	01/10/2011	6	5	1172	Flat	SW	L			2.3	0	1
+Ziika	13/01/2011	7	5	1156	Steep	SW	L			3.6	1	2
+Ziika	13/01/2011	8	5	1161	Flat	N	L			2.3	0	1
+Kisubi-Kabaale	25/01/2011	1	5	1441	Medium	S	H			1	0	1
+Kisubi-Kabaale	25/01/2011	2	5	1431	Medium	S	L			3.6	1	2
+Kisubi-Kabaale	25/01/2011	3	5	1452	Medium	SE	L			3	2	2
+Kisubi-Kabaale	26/01/2011	4	5	1437	Medium	S	H			2.3	0	4
+Kisubi-Kabaale	26/01/2011	5	5	1444	Medium	SE	L			2	0	2
+Kisubi-Kabaale	26/01/2011	6	5	1455	Medium	E	L			3.6	1	1
+Kisubi-Kabaale	26/01/2011	7	5	1445	Medium	SE	L			3.6	0	2
+Kisubi-Kabaale	27/01/2011	8	5	1467	Steep	SE	H			1.3	1	3
+Kisubi-Kabaale	27/01/2011	9	5	1462	Medium	NE	0			3.6	0	1
+Kisubi-Kabaale	27/01/2011	10	5	1500	Steep	NW	L			3	1	2
+Kisubi-Nabinoonya	28/01/2011	1	5	1460	Medium	SW	H			2.3	1	1
+Kisubi-Nabinoonya	28/01/2011	2	5	1436	Steep	W	H			3	0	2
+Kisubi-Nabinoonya	28/01/2011	3	5	1443	Steep	N	L			4.6	0	1
+Kisubi-Nabinoonya	28/01/2011	4	5	1466	Steep	W	L			3.6	1	1
+Kisubi-Nabinoonya	28/01/2011	5	5	1462	Medium	NE	H			2.6	1	2
+Kisubi-Nabinoonya	29/01/2011	6	5	1452	Steep	W	H			2.6	0	3
+Kisubi-Nabinoonya	29/01/2011	7	5	1444	Medium	E	H			3.6	0	1
+Kisubi-Nabinoonya	29/01/2011	8	5	1454	Medium	SE	L			2	0	1
+Kisubi-Nabinoonya	29/01/2011	9	5	1444	Flat	NW	L			3	0	4
+Kisubi-Nabinoonya	29/01/2011	10	5	1473	Steep	E	L			3.6	0	2

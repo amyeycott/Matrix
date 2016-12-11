@@ -1,0 +1,22 @@
+library(vegan)
+library(RODBC)
+##file.choose()
+afram<-odbcConnectAccess2007("C:\\stat\\Aframomum\\Biomass_performance\\Biomass_3_17_04_2015.accdb")
+Loc<-odbcConnectAccess2007("C:\\stat\\Aframomum\\Biomass_performance\\Biomass_3_17_04_2015.accdb")
+Location<-sqlQuery(afram,"select * from performance1")
+#compart<-sqlQuery(research,"select * from Compartment")
+Location2<-sqlQuery(Loc,"select * from Location")
+variables<-sqlQuery(afram,"select * from performance1")
+
+
+#x11(width=5,height=9);par(mfrow=c(4,2),mar=c(2,1,2,0.5),mgp=c(1,.3,0),oma=c(0,2,0,0),cex=.7,tcl=.25,xpd=T,las=1.55)
+x11(width=5,height=9);par(mfrow=c(4,2),mar=c(2.5,1,2,1),mgp=c(1,.3,0),oma=c(0,2,0,0),cex=.7,tcl=.25,xpd=T,las=1.55)
+#fortype<-xtabs(AvgOfStemLength~LocationType,Location2)
+boxplot(AvgOfStemLength~LocationType,Location2,main="Stem length")
+boxplot(AvgOfNumLeaves~LocationType,Location2,main="Number of leaves")
+boxplot(AvgOfLong_leaf~LocationType,Location2,main="Long leaf")
+boxplot(AvgOfLeafBredth~LocationType,Location2,main="Leaf breadth")
+boxplot(AvgOfStemWeight~LocationType,Location2,main="Stem weight")
+boxplot(AvgOfLeavesWeight~LocationType,Location2,main="Leaf weight")
+boxplot(AvgOfRootsWeight~LocationType,Location2,main="Root weight")
+

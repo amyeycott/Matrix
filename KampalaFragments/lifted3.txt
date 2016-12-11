@@ -1,0 +1,11 @@
+Fragment	1995Groupsize	2012Groupsize	1990area	2010area	collins1990	colllins2010
+Bunamwaya	11	0	1.5	4	9	9
+Gogonya	13.8	9	6	11.1	15	11
+Kibale	13.8	7.43	4.3	18.8	22	18.8
+Kisubi Girls	13.8	6.22	3.2	7.6	15	13
+Kisubi Technical	13.8	8.62	2.5	9.5	16	10
+Mpanga	23	10.32	438	438	476	438
+Nabinoonya	13.8	7.96	7.4	10.6	20	10.6
+Sinzi	6.8	6.2	3.8	10	10	10
+Wamala	11	12.33	9.5	11	19	19
+Zika	14	8.54	19	13	13	13

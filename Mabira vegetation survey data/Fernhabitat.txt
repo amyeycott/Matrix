@@ -1,0 +1,29 @@
+Species_Name	Species_Family	Habit	Habitat
+Arthopteris palisoti	Oleandraceae	Fern	FF
+Asplenium erectum	Aspleniaceae	Fern	FF
+Asplenium gemmiferum	Aspleniaceae	Fern	F
+Asplenium holstii	Aspleniaceae	Fern	F
+Asplenium inequilaterale	Aspleniaceae	Fern	FF
+Asplenium macrophlebium	Aspleniaceae	Fern	FF
+Asplenium unilaterale	Aspleniaceae	Fern	FF
+Asplenium warneckei	Aspleniaceae	Fern	FF
+Bolbitis acrostichoides	Lomariodpsidaceae	Fern	FF
+Bolbitis auriculata	Lomariodpsidaceae	Fern	FF
+Bolbitis gemmifera	Lomariodpsidaceae	Fern	FF
+Christella parasitica	Thelypteridaceae	Fern	F
+Cyclosorus interruptus	Thelypteridaceae	Fern	S
+Doryopteris kirkii var. concolor	Adiantaceae	Fern	F
+Lomariopsis warneckei	Lomariodpsidaceae	Fern	FF
+Microlepia speluncae	Dennstaedtiaceae	Fern	F
+Microsorum punctatum	Polypodiaceae	Fern	F
+Nephrolepis biserrata	Oleandraceae	Fern	F
+Pellaea doniana	Adiantaceae	Fern	F
+Pneumatopteris unita	Thelypteridaceae	Fern	F
+Pteris atrovirens/burtonii	Pteridaceae	Fern	F
+Pteris catoptera	Pteridaceae	Fern	F
+Pteris dentata	Pteridaceae	Fern	F
+Pteris hamulosa	Pteridaceae	Fern	FF
+Pteris preussii	Pteridaceae	Fern	FF
+Pteris pteridioides	Pteridaceae	Fern	FF
+Tectaria angelicifolia	Dryopteridaceae	Fern	FF
+Tectaria gemmifera	Dryopteridaceae	Fern	F

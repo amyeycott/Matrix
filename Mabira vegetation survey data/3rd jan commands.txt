@@ -1,0 +1,225 @@
+source("C:\Documents and Settings\Josephine\Desktop\stat\Mabira vegetation survey data\matrix veg load data.r")
+source("C:\\Documents and Settings\\Josephine\\Desktop\\stat\\Mabira vegetation survey data\\matrix veg load data.r")
+source("C:\\Documents and Settings\\Josephine\\Desktop\\stat\\Mabira vegetation survey data\\matrix veg load data.r")
+summary(env)
+source("C:\\Documents and Settings\\Josephine\\Desktop\\stat\\Mabira vegetation survey data\\matrix veg load data.r")
+summary(env)
+source("C:\\Documents and Settings\\Josephine\\Desktop\\stat\\Mabira vegetation survey data\\matrix veg load data.r")
+summary(env)
+env$Na
+x<-env
+  x1<-setdiff(1:74, rownames(x))
+x1
+rownames(env)
+env<-fill.na(env)
+rownames(env)
+env<-fill.na(env)
+rownames(env)
+source("C:\\Documents and Settings\\Josephine\\Desktop\\stat\\Mabira vegetation survey data\\matrix veg load data.r")
+rownames(env)
+env<-fill.na(env)
+rownames(env)
+fill.na<-function(x){
+  x1<-setdiff(1:74, rownames(x))
+  x2<-matrix(NA, nrow=length(x1), ncol=ncol(x))
+  rownames(x2)<-x1
+  colnames(x2)<-colnames(x)
+  x<-rbind(x,x2)
+  x<-x[order(rownames(x)),]
+  x
+}
+env<-fill.na(env)
+rownames(env)
+source("C:\\Documents and Settings\\Josephine\\Desktop\\stat\\Mabira vegetation survey data\\matrix veg load data.r")
+rownames(fill.na(env))
+fill.na
+fill.na<-function(x){
+  x1<-setdiff(1:74, rownames(x))
+  x2<-matrix(NA, nrow=length(x1), ncol=ncol(x))
+  rownames(x2)<-x1
+  colnames(x2)<-colnames(x)
+  x<-rbind(x,x2)
+  x<-x[order(rownames(x)),]
+  x
+}
+env<-fill.na(env)
+rownames(env)
+nrows(env)
+nrow(env)
+env<-fill.na(env)
+ferns<-fill.na(ferns)
+herbs<-fill.na(herbs)
+trees<-fill.na(trees)
+seed.all<-fill.na(seed.all)
+spore.allz-fill.na(spore.all)
+spore.all<-fill.na(spore.all)
+dim(seed.all)
+rich<-sapply(list(spores=spore.all, seeds=seed.all, trees=trees, herbs=herbs, ferns=ferns), function(x){
+  rowSums(x>0)
+})
+rich<-as.data.frame(rich)
+pairs(rich)
+round(cor(rich, use="pair"),2)
+x11();par(mfrow=c(2,3))
+mapply(hist, x=rich, main=names(rich))
+source("C:\\Documents and Settings\\Josephine\\Desktop\\stat\\Mabira vegetation survey data\\matrix veg load data.r")
+str(herbs)
+nrows(herb)
+x11();par(mfrow=c(2,3))
+mapply(hist, x=rich, main=names(rich))
+names(herbs)
+herbs$Dummy<-NULL
+herbsP<-xtabs(abundance_percent~paste(Transect_id,Plot,sep="_")+Species_Name, data=thinspp2)
+herbsP<-as.data.frame(unclass(herbsP))
+head(herbsP)
+herbsP$Dummy<-NULL
+herbs<-xtabs(abundance_percent~Transect_id+Species_Name, data=thinspp2)/6
+herbs<-as.data.frame(unclass(herbs))
+herbs<-herbs[order(rownames(herbs)),]
+head(herbs)
+herbs$Dummy<-NULL
+rownames(herbs)
+unique(thinspp2$Species_Name)
+con<-odbcConnectExcel("survey_data.xls2.xls")
+sqlTables(con)
+thinspp<-sqlQuery(con,"Select * From [survey_data$]")
+close(con)
+head(thinspp)
+summary(thinspp)
+trees<-xtabs(abundance_count~Transect_id+Species_Name, data=thinspp,subset=Plot==0, drop=T)
+trees<-as.data.frame(unclass(trees))
+class(trees)
+head(trees)
+length(unique(thinspp$species_id))
+length(unique(thinspp$Species_Name))
+thinspp[thinspp$Species_Name=="Corymborkis corymbis",]
+unique(thinspp$Species_Name)[sapply(unique(thinspp$Species_Name),function(n) length(unique(thinspp$species_id[thinspp$Species_Name==n])))>1]
+thinspp2<-thinspp[thinspp$Plot!=0,]
+table(thinspp2$abundance_count)
+table(thinspp2$abundance_percent[thinspp2$abundance_count!=0])
+table(thinspp2$abundance_percent)
+thinspp2[thinspp2$abundance_percent!=0&thinspp2$abundance_count!=0,,drop=F]
+thinspp2$abundance_percent[thinspp2$abundance_count!=0]<-ifelse(thinspp2$abundance_count[thinspp2$abundance_count!=0]<=5,1,2)
+herbs<-xtabs(abundance_percent~Transect_id+Species_Name, data=thinspp2)/6
+herbs<-as.data.frame(unclass(herbs))
+herbs<-herbs[order(rownames(herbs)),]
+head(herbs)
+herbs$Dummy<-NULL
+rownames(herbs)
+herbsP<-xtabs(abundance_percent~paste(Transect_id,Plot,sep="_")+Species_Name, data=thinspp2)
+herbsP<-as.data.frame(unclass(herbsP))
+head(herbsP)
+herbsP$Dummy<-NULL
+setdiff(rownames(trees),rownames(herbs) )#74 ???????????????
+con<-odbcConnectExcel2007( "Seedbank Datasheet.xlsx")
+sqlTables(con)
+thinseeds<-sqlQuery(con, "Select * From [rawdata$]")
+head(thinseeds)
+names(thinseeds)<-c("Transect","Species","Group","top1cm3","base4cm3","Total")
+seed.all<-xtabs(Total~Transect+Species, data=thinseeds)
+seed.all<-as.data.frame(unclass(seed.all))
+seed.all<-seed.all[order(rownames(seed.all)),]
+head(seed.all)
+thinspores<-sqlQuery(con, "Select * From [Fern data$]")
+thinspores<-thinspores[!is.na(thinspores$Transect),]
+head(thinspores)
+names(thinspores)<-c("Transect","Species","top1cm3","base4cm3","Total")
+spore.all<-xtabs(Total~Transect+Species, data=thinspores)
+spore.all<-as.data.frame(unclass(spore.all))
+spore.all$Dummy<-NULL
+head(spore.all)
+spore.all<-spore.all[order(rownames(spore.all)),]
+close(con)
+rowSums(spore.all)
+source("C:\\Documents and Settings\\Josephine\\Desktop\\stat\\Mabira vegetation survey data\\matrix veg load data.r")
+names(thinspp2)
+tapply(thinnspp2$Plot, thinspp2$Transect_id, length)
+tapply(thinspp2$Plot, thinspp2$Transect_id, length)
+tapply(thinspp2$Plot, thinspp2$Transect_id, function(x)length(unique(x)))
+table(.Last.value)
+sort(rowSums(herbsP))
+nplots<-tapply(thinspp2$Plot, thinspp2$Transect_id, function(x)length(unique(x)))  #plots per transect
+herbs<-xtabs(abundance_percent~Transect_id+Species_Name, data=thinspp2)/nplots
+nplots
+length(nplots)
+herbs<-xtabs(abundance_percent~Transect_id+Species_Name, data=thinspp2)
+dim(herbs)
+herbs<-as.data.frame(unclass(herbs))/nplots
+sum(spore.all, na.rm=T)
+sum(seeds.all, na.rm=T)
+sum(seed.all, na.rm=T)
+colSums(seed.all, na.rm=T)
+trees$Brousson
+herbs$Brousson
+colSums(herbs, na.rm=T)
+sort(colSums(herbs, na.rm=T))
+env
+names(env)
+env$CanO
+hist(env$CanO)
+seed.all$Brousson
+sum(seed.all$Brousson, na.rm=T)
+pairs(cbind(trees$Brousson, herbs$Brousson,seed.all$Brousson))
+herbs$Brousson
+env<-fill.na(env)
+ferns<-fill.na(ferns)
+herbs<-fill.na(herbs)
+trees<-fill.na(trees)
+seed.all<-fill.na(seed.all)
+spore.all<-fill.na(spore.all)
+pairs(cbind(trees$Brousson, herbs$Brousson,seed.all$Brousson))
+pairs(cbind(tree=trees$Brousson, herb=herbs$Brousson,seed=seed.all$Brousson))
+names(env)
+env$Forest
+pairs(cbind(tree=trees$Brousson, herb=herbs$Brousson,seed=seed.all$Brousson), col=env$Forest)
+pairs(cbind(tree=trees$Brousson, herb=herbs$Brousson,seed=seed.all$Brousson), col=env$Forest,pch=16)
+boxplot(seed.all$Brousson~env$Forest)
+boxplot(seed.all$Brousson~env$Forest, notch=T)
+boxplot(trees$Brousson~env$Forest, notch=T)
+boxplot(herbs$Brousson~env$Forest, notch=T)
+sort(rowSums(herbs>0))
+sort(rowSums(trees>0))
+sort(rowSums(ferns>0))
+dim(herbs)
+library()
+library(vegan)
+decorana(herbs[!is.na(herbs[,1])&rowSums(herbs>0)>3,])
+plot(decorana(herbs[!is.na(herbs[,1])&rowSums(herbs>0)>3,]))
+keep<-!is.na(herbs[,1])&rowSums(herbs>0)>3
+(dca<-decorana(sqrt(herbs[keep,])))
+names(env)
+keep<-!is.na(herbs[,1])&rowSums(herbs>0)>3
+(dca<-decorana(sqrt(herbs[keep,])))
+plot(dca, type="n")
+points(dca, display=sites, col=env$Forest[keep])
+points(dca, display="sites", col=env$Forest[keep])
+points(dca, display="sites", pch="x")
+env$Forest
+rownames(herbs)
+rownames(env)
+identical(rownames(env), rownames(herbs)
+)
+points(dca, display="species") 
+p<-plot(dca, type="n")
+points(dca, display="sites", col=env$Forest[keep])
+points(dca, display="sites", pch="x")
+points(dca, display="species", pch="+", col=5)
+identify(p, what="species") 
+identify(p, what="sites") 
+(nmds<-metaMDS(herbs[keep,]))
+p<-plot(nmds)
+p<-plot(nmds, type="n")
+points(nmds, display="sites", pch=16)
+points(nmds, display="sites", col=env$Forest[keep]+1, pch=16)
+points(nmds, display="sites", col=as.numeric(env$Forest[keep])+1, pch=16)
+names(env)
+m.from.stream
+env$m.from.stream
+table(env$m.from.stream)
+envfit(nmds, env[keep,])
+envfit(nmds, env[keep,], na.rm=T)
+names(env)
+sapply(env, class)
+envfit(nmds, env[keep,c(5:16,18:20)], na.rm=T)
+history(300)
+

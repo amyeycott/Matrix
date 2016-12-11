@@ -1,0 +1,1510 @@
+Compartment_id	Transect_id	Plot	species_id	abundance_count	abundance_percent	Species_Name	Species_Family
+204	69	0	1	5	0	Albizia gumiifera	Leguminosae
+204	69	0	5	1	0	Diospyros abyssinica	Ebenaceae
+204	69	0	6	3	0	Bilghia usolanumnijugata	Sapindaceae
+204	69	0	2	7	0	Celtis mildbreadii	Ulmaceae
+204	69	0	3	3	0	Celtis ducrandii	Ulmaceae
+204	69	0	8	1	0	Markhamia lutea	Bignoniaceae
+204	0	0	9	1	0	Funtumia elastica	Apocynaceae
+204	69	1	5	1	0	Diospyros abyssinica	Ebenaceae
+204	69	1	10	0	50	Dracaena fragrans	Asparagaceae
+204	69	1	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+204	69	1	12	1	0	Citropsis articulata	Rutaceae
+204	69	2	12	1	0	Citropsis articulata	Rutaceae
+204	69	2	11	0	30	Pseudoranthemum ludovicianum	Acanthaceae
+204	69	2	10	0	20	Dracaena fragrans	Asparagaceae
+204	69	2	13	1	0	Entandophragma sp	Meliaceae
+204	69	3	10	0	40	Dracaena fragrans	Asparagaceae
+204	69	3	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+204	69	3	14	1	0	Teclea nobilis	Rutaceae
+204	69	3	1	2	0	Albizia gumiifera	Leguminosae
+204	69	3	15	2	0	Argomuellera macrophylla	Euphobiaceae
+204	69	3	16	0	1	Culcasia falcifolia	Araceae
+204	69	4	17	0	10	Acalypha neptunica	Euphobiaceae
+204	69	4	10	0	50	Dracaena fragrans	Asparagaceae
+204	69	4	18	1	0	Unknown climber	
+204	69	4	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+204	69	5	11	0	20	Pseudoranthemum ludovicianum	Acanthaceae
+204	69	5	10	0	5	Dracaena fragrans	Asparagaceae
+204	69	5	17	0	30	Acalypha neptunica	Euphobiaceae
+204	69	5	15	3	0	Argomuellera macrophylla	Euphobiaceae
+204	69	5	12	1	0	Citropsis articulata	Rutaceae
+204	69	6	17	0	20	Acalypha neptunica	Euphobiaceae
+204	69	6	10	0	10	Dracaena fragrans	Asparagaceae
+204	69	6	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+204	68	0	1	5	0	Albizia gumiifera	Leguminosae
+204	68	0	7	4	0	Celtis durandii	Ulmaceae
+204	68	0	9	1	0	Funtumia elastica	Apocynaceae
+204	68	0	5	2	0	Diospyros abyssinica	Ebenaceae
+204	68	1	9	4	0	Funtumia elastica	Apocynaceae
+204	68	0	8	1	0	Markhamia lutea	Bignoniaceae
+204	68	0	7	3	0	Celtis durandii	Ulmaceae
+204	68	1	17	0	10	Acalypha neptunica	Euphobiaceae
+204	68	1	10	0	30	Dracaena fragrans	Asparagaceae
+204	68	1	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+204	68	1	13	1	0	Entandophragma sp	Meliaceae
+204	68	1	173	1	0	Monanthotaxi ferruginea	Annonaceae
+204	68	2	10	0	40	Dracaena fragrans	Asparagaceae
+204	68	2	1	1	0	Albizia gumiifera	Leguminosae
+204	68	2	17	0	5	Acalypha neptunica	Euphobiaceae
+204	68	3	10	0	60	Dracaena fragrans	Asparagaceae
+204	68	3	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+204	68	3	17	0	2	Acalypha neptunica	Euphobiaceae
+204	68	3	16	0	1	Culcasia falcifolia	Araceae
+204	68	3	25	1	0	Celtis wightii	Ulmaceae
+204	68	3	55	1	0	Asplenium	
+204	68	4	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+204	68	4	10	0	40	Dracaena fragrans	Asparagaceae
+204	68	4	17	0	5	Acalypha neptunica	Euphobiaceae
+204	68	5	17	0	30	Acalypha neptunica	Euphobiaceae
+204	68	5	11	0	20	Pseudoranthemum ludovicianum	Acanthaceae
+204	68	5	16	0	1	Culcasia falcifolia	Araceae
+204	68	5	1	1	0	Albizia gumiifera	Leguminosae
+204	68	5	6	1	0	Bilghia unijugata	Sapindaceae
+204	68	5	15	3	0	Argomuellera macrophylla	Euphobiaceae
+204	68	5	44	1	0	Kigeria africana	Bignonaceae
+205	36	0	5	3	0	Diospyros abyssinica	Ebenaceae
+205	36	0	28	1	0	Spathodea campanulata	Bignoniaceae
+205	36	0	44	5	0	Kigeria africana	Bignonaceae
+205	36	0	19	1	0	Albizia grandibracteata	Leguminosae
+205	36	0	29	1	0	Pachystela brevipes	Sapotaceae
+205	36	1	37	5	0	Pulsota sp	
+205	36	1	35	0	10	Leptapsis sp	
+205	36	1	11	0	30	Pseudoranthemum ludovicianum	Acanthaceae
+205	36	1	17	0	1	Acalypha neptunica	Euphobiaceae
+205	36	1	78	0	2	Aframomum mildbraedii	Zingiberaceae
+205	36	1	63	1	0	Coffee	Rubiaceae
+205	36	1	26	1	0	Tabernaemontana holstii	Apocynaceae
+205	36	2	38	0	2	Pteris burtoni	Pteridaceae
+205	36	2	11	0	20	Pseudoranthemum ludovicianum	Acanthaceae
+205	36	2	37	5	0	Pulsota sp	
+205	36	2	35	0	5	Leptapsis sp	
+205	36	3	11	0	50	Pseudoranthemum ludovicianum	Acanthaceae
+205	36	3	31	0	1	Maranthacloa lutea	Marantaceae
+205	36	4	11	0	50	Pseudoranthemum ludovicianum	Acanthaceae
+205	36	4	17	0	20	Acalypha neptunica	Euphobiaceae
+205	36	4	94	0	1	Maranthocloa purpulea	Marantaceae
+205	36	4	37	5	0	Pulsota sp	
+205	36	4	38	0	1	Pteris burtoni	Pteridaceae
+205	36	3	38	0	2	Pteris burtoni	Pteridaceae
+205	36	5	35	0	20	Leptapsis sp	
+205	36	5	38	0	5	Pteris burtoni	Pteridaceae
+205	36	5	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+205	36	5	37	3	0	Pulsota sp	
+205	36	5	13	1	0	Entandophragma sp	Meliaceae
+205	36	6	13	1	0	Entandophragma sp	Meliaceae
+205	36	6	10	0	5	Dracaena fragrans	Asparagaceae
+205	36	6	11	0	20	Pseudoranthemum ludovicianum	Acanthaceae
+205	36	6	51	1	0	Khaya anthotheca	Meliaceae
+205	36	6	35	1	0	Leptapsis sp	
+205	37	0	19	4	0	Albizia grandibracteata	Leguminosae
+205	37	0	30	1	0	Canarium schweinfurthii	Burseraceae
+205	37	0	22	1	0	Ficus mucuso	Moraceae
+205	37	1	35	0	50	Leptapsis sp	
+205	37	1	63	0	2	Coffee	Rubiaceae
+205	37	1	17	1	0	Acalypha neptunica	Euphobiaceae
+205	37	1	67	2	0	Ficus asperifolia	Moraceae
+205	37	1	13	2	0	Entandophragma sp	Meliaceae
+205	37	1	173	1	0	Monanthotaxi ferruginea	Annonaceae
+205	37	2	35	0	20	Leptapsis sp	
+205	37	2	63	0	5	Coffee	Rubiaceae
+205	37	2	13	3	0	Entandophragma sp	Meliaceae
+205	37	2	67	0	2	Ficus asperifolia	Moraceae
+205	37	3	35	0	50	Leptapsis sp	
+205	37	3	63	0	3	Coffee	Rubiaceae
+205	37	3	19	2	0	Albizia grandibracteata	Leguminosae
+205	37	3	90	1	0	Macaranga angolensis	Euphorbiaceae
+205	37	4	37	1	0	Pulsota sp	
+205	37	4	26	1	0	Tabernaemontana holstii	Apocynaceae
+205	37	4	35	0	40	Leptapsis sp	
+205	37	4	63	0	2	Coffee	Rubiaceae
+205	37	4	79	1	0	Khaya mahogany 7	Meliaceae
+205	37	5	218	1	0	Monanthotaxis littoralis	Annonaceae
+205	37	5	63	0	2	Coffee	Rubiaceae
+205	37	5	35	0	30	Leptapsis sp	
+205	37	5	13	2	0	Entandophragma sp	Meliaceae
+205	37	5	14	1	0	Teclea nobilis	Rutaceae
+206	27	0	1	2	0	Albizia gumiifera	Leguminosae
+206	27	0	6	1	0	Bilghia unijugata	Sapindaceae
+206	27	0	44	3	0	Kigeria africana	Bignonaceae
+206	27	0	39	2	0	Cordia africana	Boraginaceae
+206	27	0	25	1	0	Celtis wightii	Ulmaceae
+206	27	0	27	1	0	Myrianthus holstii	Moraceae
+206	27	0	9	1	0	Funtumia elastica	Apocynaceae
+206	27	0	2	1	0	Celtis mildbreadii	Ulmaceae
+206	27	0	43	1	0	Croton macrophyallus	Euphorbiaceae
+206	27	0	54	1	0	Euphorbia teke	Euphorbiaceae
+206	27	0	4	1	0	Malnilkara dawei	Sapotaceae
+206	27	1	15	0	10	Argomuellera macrophylla	Euphobiaceae
+206	27	1	11	0	30	Pseudoranthemum ludovicianum	Acanthaceae
+206	27	1	37	1	0	Pulsota sp	
+206	27	1	45	1	0	Pollia condensata	Commelinaceae
+206	27	1	85	1	0	Reneria congrana	
+206	27	1	17	0	10	Acalypha neptunica	Euphobiaceae
+206	27	1	86	2	0	Rubiaceae	Rubiaceae
+206	27	1	54	1	0	Euphorbia teke	Euphorbiaceae
+206	27	1	55	0	2	Asplenium	
+206	27	1	10	0	5	Dracaena fragrans	Asparagaceae
+206	27	2	25	1	0	Celtis wightii	Ulmaceae
+206	27	2	15	0	5	Argomuellera macrophylla	Euphobiaceae
+206	27	2	10	0	10	Dracaena fragrans	Asparagaceae
+206	27	2	86	0	1	Rubiaceae	Rubiaceae
+206	27	2	45	1	0	Pollia condensata	Commelinaceae
+206	27	2	16	1	0	Culcasia falcifolia	Araceae
+206	27	2	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+206	27	2	27	1	0	Myrianthus holstii	Moraceae
+206	27	2	98	1	0	Combretum fuscum	Combretaceae
+206	27	3	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+206	27	3	45	0	1	Pollia condensata	Commelinaceae
+206	27	3	10	0	30	Dracaena fragrans	Asparagaceae
+206	27	3	17	0	20	Acalypha neptunica	Euphobiaceae
+206	27	3	54	1	0	Euphorbia teke	Euphorbiaceae
+206	27	3	17	0	20	Acalypha neptunica	Euphobiaceae
+206	27	3	10	1	0	Dracaena fragrans	Asparagaceae
+206	27	3	36	1	0	Parvetta ternifolia	
+206	27	3	55	1	0	Asplenium	
+206	27	3	7	1	0	Celtis durandii	Ulmaceae
+206	27	4	54	2	0	Euphorbia teke	Euphorbiaceae
+206	27	4	15	3	0	Argomuellera macrophylla	Euphobiaceae
+206	27	4	10	0	10	Dracaena fragrans	Asparagaceae
+206	27	4	17	0	20	Acalypha neptunica	Euphobiaceae
+206	27	4	36	1	0	Parvetta ternifolia	
+206	27	4	37	1	0	Pulsota sp	
+206	27	4	11	1	0	Pseudoranthemum ludovicianum	Acanthaceae
+206	27	4	35	1	0	Leptapsis sp	
+206	27	4	10	0	50	Dracaena fragrans	Asparagaceae
+206	27	4	15	0	10	Argomuellera macrophylla	Euphobiaceae
+206	27	4	17	0	10	Acalypha neptunica	Euphobiaceae
+206	27	4	38	0	2	Pteris burtoni	Pteridaceae
+206	27	4	71	1	0	Euphorbiacea sp	Euphorbiaceae
+206	27	5	37	1	0	Pulsota sp	
+206	27	5	10	0	10	Dracaena fragrans	Asparagaceae
+206	27	5	17	0	5	Acalypha neptunica	Euphobiaceae
+206	27	5	38	0	2	Pteris burtoni	Pteridaceae
+206	27	6	17	0	30	Acalypha neptunica	Euphobiaceae
+206	27	6	10	0	20	Dracaena fragrans	Asparagaceae
+206	27	6	8	1	0	Markhamia lutea	Bignoniaceae
+206	28	0	21	1	0	Alstonia boonei	Apocynaceae
+206	28	0	2	5	0	Celtis mildbreadii	Ulmaceae
+206	28	0	9	2	0	Funtumia elastica	Apocynaceae
+206	28	0	5	2	0	Diospyros abyssinica	Ebenaceae
+206	28	0	67	1	0	Ficus asperifolia	Moraceae
+206	28	0	1	1	0	Albizia gumiifera	Leguminosae
+206	28	0	25	4	0	Celtis wightii	Ulmaceae
+206	28	0	93	1	0	Lovoa trichiloides	Meliaceae
+206	28	1	17	0	10	Acalypha neptunica	Euphobiaceae
+206	28	1	15	0	10	Argomuellera macrophylla	Euphobiaceae
+206	28	1	35	1	0	Leptapsis sp	
+206	28	1	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+206	28	1	10	0	5	Dracaena fragrans	Asparagaceae
+206	28	2	11	0	40	Pseudoranthemum ludovicianum	Acanthaceae
+206	28	2	10	0	30	Dracaena fragrans	Asparagaceae
+206	28	2	17	0	20	Acalypha neptunica	Euphobiaceae
+206	28	2	5	1	0	Diospyros abyssinica	Ebenaceae
+206	28	2	16	1	0	Culcasia falcifolia	Araceae
+206	28	2	35	0	2	Leptapsis sp	
+206	28	2	45	1	0	Pollia condensata	Commelinaceae
+206	28	3	85	1	0	Reneria congrana	
+206	28	3	16	1	0	Culcasia falcifolia	Araceae
+206	28	3	11	0	30	Pseudoranthemum ludovicianum	Acanthaceae
+206	28	3	10	0	10	Dracaena fragrans	Asparagaceae
+206	28	3	17	0	20	Acalypha neptunica	Euphobiaceae
+206	28	4	11	0	50	Pseudoranthemum ludovicianum	Acanthaceae
+206	28	4	10	0	5	Dracaena fragrans	Asparagaceae
+206	28	4	17	0	30	Acalypha neptunica	Euphobiaceae
+206	28	5	8	1	0	Markhamia lutea	Bignoniaceae
+206	28	5	2	1	0	Celtis mildbreadii	Ulmaceae
+206	28	5	11	0	50	Pseudoranthemum ludovicianum	Acanthaceae
+206	28	5	15	5	0	Argomuellera macrophylla	Euphobiaceae
+206	28	5	10	0	5	Dracaena fragrans	Asparagaceae
+206	30	0	25	2	0	Celtis wightii	Ulmaceae
+206	30	0	6	1	0	Bilghia unijugata	Sapindaceae
+206	30	0	91	1	0	Oncoba spinosa	Salicaceae
+206	30	0	23	2	0	Ficus sur	Moraceae
+206	30	0	92	1	0	Croton megalocarpus	Euphorbiaceae
+206	30	0	25	1	0	Celtis wightii	Ulmaceae
+206	30	0	93	1	0	Lovoa trichiloides	Meliaceae
+206	30	1	94	0	20	Maranthocloa purpulea	Marantaceae
+206	30	1	10	0	10	Dracaena fragrans	Asparagaceae
+206	30	1	91	1	0	Oncoba spinosa	Salicaceae
+206	30	1	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+206	30	1	25	1	0	Celtis wightii	Ulmaceae
+206	30	1	17	0	10	Acalypha neptunica	Euphobiaceae
+206	30	1	23	1	0	Ficus sur	Moraceae
+206	30	1	37	1	0	Pulsota sp	
+206	30	1	55	0	10	Asplenium	
+206	30	2	4	1	0	Malnilkara dawei	Sapotaceae
+206	30	2	16	0	1	Culcasia falcifolia	Araceae
+206	30	2	94	1	0	Maranthocloa purpulea	Marantaceae
+206	30	2	15	1	0	Argomuellera macrophylla	Euphobiaceae
+206	30	2	17	0	20	Acalypha neptunica	Euphobiaceae
+206	30	2	91	1	0	Oncoba spinosa	Salicaceae
+206	30	2	88	1	0	Olyra latifolia	Poaceae
+206	30	2	45	1	0	Pollia condensata	Commelinaceae
+206	30	2	13	1	0	Entandophragma sp	Meliaceae
+206	30	2	11	0	30	Pseudoranthemum ludovicianum	Acanthaceae
+206	30	3	7	1	0	Celtis durandii	Ulmaceae
+206	30	3	15	0	1	Argomuellera macrophylla	Euphobiaceae
+206	30	3	10	0	10	Dracaena fragrans	Asparagaceae
+206	30	3	17	0	10	Acalypha neptunica	Euphobiaceae
+206	30	3	37	10	0	Pulsota sp	
+206	30	3	45	1	0	Pollia condensata	Commelinaceae
+206	30	3	51	1	0	Khaya anthotheca	Meliaceae
+206	30	3	11	0	20	Pseudoranthemum ludovicianum	Acanthaceae
+206	30	3	8	1	0	Markhamia lutea	Bignoniaceae
+206	30	3	36	1	0	Parvetta ternifolia	
+206	30	3	38	1	0	Pteris burtoni	Pteridaceae
+206	30	3	55	1	0	Asplenium	
+206	30	3	91	1	0	Oncoba spinosa	Salicaceae
+206	30	3	50	1	0	Lindackeria schweinfurthii	Flacourtiaceae
+206	30	3	142	1	0	Corymborkis corymbis	Orchidaceae
+206	30	4	11	0	50	Pseudoranthemum ludovicianum	Acanthaceae
+206	30	4	38	0	2	Pteris burtoni	Pteridaceae
+206	30	4	15	0	5	Argomuellera macrophylla	Euphobiaceae
+206	30	4	17	0	20	Acalypha neptunica	Euphobiaceae
+206	30	4	37	5	0	Pulsota sp	
+206	30	4	142	1	0	Corymborkis corymbis	Orchidaceae
+206	30	4	55	0	1	Asplenium	
+206	30	5	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+206	30	5	17	0	10	Acalypha neptunica	Euphobiaceae
+206	30	5	16	0	1	Culcasia falcifolia	Araceae
+206	30	5	38	0	1	Pteris burtoni	Pteridaceae
+206	30	5	91	1	0	Oncoba spinosa	Salicaceae
+206	30	5	31	1	0	Maranthacloa lutea	Marantaceae
+206	30	5	15	0	1	Argomuellera macrophylla	Euphobiaceae
+206	30	5	10	0	10	Dracaena fragrans	Asparagaceae
+206	30	5	142	1	0	Corymborkis corymbis	Orchidaceae
+206	30	5	4	1	0	Malnilkara dawei	Sapotaceae
+206	30	6	88	0	1	Olyra latifolia	Poaceae
+206	30	6	4	1	0	Malnilkara dawei	Sapotaceae
+206	30	6	91	1	0	Oncoba spinosa	Salicaceae
+206	30	6	11	0	50	Pseudoranthemum ludovicianum	Acanthaceae
+206	30	6	37	1	0	Pulsota sp	
+206	30	6	38	0	1	Pteris burtoni	Pteridaceae
+206	30	6	10	0	5	Dracaena fragrans	Asparagaceae
+206	30	6	31	1	0	Maranthacloa lutea	Marantaceae
+206	30	6	142	1	0	Corymborkis corymbis	Orchidaceae
+206	30	6	67	1	0	Ficus asperifolia	Moraceae
+206	30	6	15	0	1	Argomuellera macrophylla	Euphobiaceae
+206	30	6	36	1	0	Parvetta ternifolia	
+206	30	6	95	1	0	Unknown 17	
+206	31	0	74	2	0	Croton macrostachyus	Euphorbiaceae
+206	31	0	22	1	0	Ficus mucuso	Moraceae
+206	31	0	2	2	0	Celtis mildbreadii	Ulmaceae
+206	31	0	21	2	0	Alstonia boonei	Apocynaceae
+206	31	0	25	5	0	Celtis wightii	Ulmaceae
+206	31	0	44	2	0	Kigeria africana	Bignonaceae
+206	31	1	10	0	50	Dracaena fragrans	Asparagaceae
+206	31	1	35	0	1	Leptapsis sp	
+206	31	1	17	0	2	Acalypha neptunica	Euphobiaceae
+206	31	1	36	4	0	Parvetta ternifolia	
+206	31	1	16	1	0	Culcasia falcifolia	Araceae
+206	31	1	15	1	0	Argomuellera macrophylla	Euphobiaceae
+206	31	1	55	1	0	Asplenium	
+206	31	1	11	0	20	Pseudoranthemum ludovicianum	Acanthaceae
+206	31	2	37	1	0	Pulsota sp	
+206	31	2	17	1	0	Acalypha neptunica	Euphobiaceae
+206	31	2	15	5	0	Argomuellera macrophylla	Euphobiaceae
+206	31	2	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+206	31	2	10	1	0	Dracaena fragrans	Asparagaceae
+206	31	2	35	1	0	Leptapsis sp	
+206	31	2	55	0	10	Asplenium	
+206	31	3	36	1	0	Parvetta ternifolia	
+206	31	3	10	0	40	Dracaena fragrans	Asparagaceae
+206	31	3	11	0	20	Pseudoranthemum ludovicianum	Acanthaceae
+206	31	3	15	0	5	Argomuellera macrophylla	Euphobiaceae
+206	31	3	35	0	1	Leptapsis sp	
+206	31	3	45	1	0	Pollia condensata	Commelinaceae
+206	31	4	10	0	10	Dracaena fragrans	Asparagaceae
+206	31	4	11	0	30	Pseudoranthemum ludovicianum	Acanthaceae
+206	31	4	36	1	0	Parvetta ternifolia	
+206	31	4	17	1	0	Acalypha neptunica	Euphobiaceae
+206	31	4	35	1	0	Leptapsis sp	
+206	31	5	26	1	0	Tabernaemontana holstii	Apocynaceae
+206	31	5	11	0	20	Pseudoranthemum ludovicianum	Acanthaceae
+206	31	5	35	1	0	Leptapsis sp	
+206	31	5	10	0	5	Dracaena fragrans	Asparagaceae
+206	31	5	17	0	11	Acalypha neptunica	Euphobiaceae
+206	31	5	45	1	0	Pollia condensata	Commelinaceae
+206	31	5	15	0	1	Argomuellera macrophylla	Euphobiaceae
+206	31	5	51	1	0	Khaya anthotheca	Meliaceae
+206	32	0	40	6	0	Peptadeniastrum africanum	Mimosaceae
+206	32	0	1	3	0	Albizia gumiifera	Leguminosae
+206	32	0	62	1	0	Macaranga monondra	Euphorbiaceae
+206	32	0	20	7	0	Antiaris toxicaria	Moraceae
+206	32	0	9	2	0	Funtumia elastica	Apocynaceae
+206	32	0	5	2	0	Diospyros abyssinica	Ebenaceae
+206	32	0	13	2	0	Entandophragma sp	Meliaceae
+206	32	0	2	1	0	Celtis mildbreadii	Ulmaceae
+206	32	1	35	0	20	Leptapsis sp	
+206	32	1	89	2	0	Clausena anisata	Rutaceae
+206	32	1	50	1	0	Lindackeria schweinfurthii	Flacourtiaceae
+206	32	1	63	1	0	Coffee	Rubiaceae
+206	32	1	2	1	0	Celtis mildbreadii	Ulmaceae
+206	32	1	49	1	0	Artabotrys likemensis	Annoncaceae
+206	32	2	14	1	0	Teclea nobilis	Rutaceae
+206	32	2	35		20	Leptapsis sp	
+206	32	2	51	1	0	Khaya anthotheca	Meliaceae
+206	32	2	63	0	1	Coffee	Rubiaceae
+206	32	2	15	0	2	Argomuellera macrophylla	Euphobiaceae
+206	32	2	19	1	0	Albizia grandibracteata	Leguminosae
+206	32	3	35	0	40	Leptapsis sp	
+206	32	3	9	7	0	Funtumia elastica	Apocynaceae
+206	32	3	17	0	30	Acalypha neptunica	Euphobiaceae
+206	32	3	19	2	0	Albizia grandibracteata	Leguminosae
+206	32	3	15	1	0	Argomuellera macrophylla	Euphobiaceae
+206	32	4	35	0	40	Leptapsis sp	
+206	32	4	5	1	0	Diospyros abyssinica	Ebenaceae
+206	32	4	63	1	0	Coffee	Rubiaceae
+206	32	4	89	2	0	Clausena anisata	Rutaceae
+206	32	4	19	1	0	Albizia grandibracteata	Leguminosae
+206	32	4	17	0	5	Acalypha neptunica	Euphobiaceae
+206	32	4	67	1	0	Ficus asperifolia	Moraceae
+206	32	5	35	0	50	Leptapsis sp	
+206	32	5	17	0	20	Acalypha neptunica	Euphobiaceae
+206	32	5	19	1	0	Albizia grandibracteata	Leguminosae
+206	32	5	51	1	0	Khaya anthotheca	Meliaceae
+206	32	5	14	1	0	Teclea nobilis	Rutaceae
+206	32	5	63	1	0	Coffee	Rubiaceae
+206	32	5	9	1	0	Funtumia elastica	Apocynaceae
+206	39	0	40	9	0	Peptadeniastrum africanum	Mimosaceae
+206	39	0	5	2	0	Diospyros abyssinica	Ebenaceae
+206	39	0	20	1	0	Antiaris toxicaria	Moraceae
+206	39	0	2	5	0	Celtis mildbreadii	Ulmaceae
+206	39	0	13	1	0	Entandophragma sp	Meliaceae
+206	39	0	42	2	0	Aphania senegelensis	Sapindaceae
+206	39	0	9	1	0	Funtumia elastica	Apocynaceae
+206	39	0	33	1	0	Broussonetia papyrifea	Moraceae
+206	39	0	1	1	0	Albizia gumiifera	Leguminosae
+206	39	0	20	2	0	Antiaris toxicaria	Moraceae
+206	39	1	35	1	0	Leptapsis sp	
+206	39	1	33	0	30	Broussonetia papyrifea	Moraceae
+206	39	1	63	1	0	Coffee	Rubiaceae
+206	39	1	49	1	0	Artabotrys likemensis	Annoncaceae
+0	39	1	89	1	0	Clausena anisata	Rutaceae
+206	39	2	50	1	0	Lindackeria schweinfurthii	Flacourtiaceae
+206	39	2	19	2	0	Albizia grandibracteata	Leguminosae
+206	39	2	4	1	0	Malnilkara dawei	Sapotaceae
+206	39	2	48	1	0	Caelsalpinia bonduc	Caesalpinaceae
+206	39	2	35	0	30	Leptapsis sp	
+206	39	2	214	1	0	Carapa procera	Meliaceae
+206	39	3	15	0	5	Argomuellera macrophylla	Euphobiaceae
+206	39	3	35	0	50	Leptapsis sp	
+206	39	3	63	0	2	Coffee	Rubiaceae
+206	39	3	17	1	0	Acalypha neptunica	Euphobiaceae
+206	39	3	4	1	0	Malnilkara dawei	Sapotaceae
+206	39	3	78	0	5	Aframomum mildbraedii	Zingiberaceae
+206	39	4	35	0	60	Leptapsis sp	
+206	39	4	17	0	5	Acalypha neptunica	Euphobiaceae
+206	39	4	1	1	0	Albizia gumiifera	Leguminosae
+206	39	5	10	0	15	Dracaena fragrans	Asparagaceae
+206	39	5	35	0	60	Leptapsis sp	
+206	39	5	78	0	10	Aframomum mildbraedii	Zingiberaceae
+206	39	5	15	1	0	Argomuellera macrophylla	Euphobiaceae
+206	39	5	17	0	10	Acalypha neptunica	Euphobiaceae
+206	39	5	5	1	0	Diospyros abyssinica	Ebenaceae
+206	39	5	19	1	0	Albizia grandibracteata	Leguminosae
+206	39	5	51	1	0	Khaya anthotheca	Meliaceae
+206	39	5	27	2	0	Myrianthus holstii	Moraceae
+207	62	0	9	2	0	Funtumia elastica	Apocynaceae
+207	62	0	1	6	0	Albizia gumiifera	Leguminosae
+207	62	0	42	1	0	Aphania senegelensis	Sapindaceae
+207	62	0	20	1	0	Antiaris toxicaria	Moraceae
+207	62	0	5	1	0	Diospyros abyssinica	Ebenaceae
+207	62	0	6	1	0	Bilghia unijugata	Sapindaceae
+207	62	0	7	1	0	Celtis durandii	Ulmaceae
+207	62	0	27	3	0	Myrianthus holstii	Moraceae
+207	62	0	2	2	0	Celtis mildbreadii	Ulmaceae
+207	62	0	44	1	0	Kigeria africana	Bignonaceae
+207	62	0	23	1	0	Ficus sur	Moraceae
+207	62	1	35	0	5	Leptapsis sp	
+207	62	1	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+207	62	1	55	0	1	Asplenium	
+207	62	1	199	0	10	Pachystela msolo	Sapotaceae
+207	62	2	10	0	10	Dracaena fragrans	Asparagaceae
+207	62	2	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+207	62	2	35	0	5	Leptapsis sp	
+207	62	2	199	0	5	Pachystela msolo	Sapotaceae
+207	62	2	45	4	0	Pollia condensata	Commelinaceae
+207	62	2	19	2	0	Albizia grandibracteata	Leguminosae
+207	62	2	203	1	0	Boltis auriculata	Lomariopsidaceae
+207	62	2	67	1	0	Ficus asperifolia	Moraceae
+207	62	2	83	1	0	Celtis africana 9	Ulmaceae
+207	62	3	10	3	0	Dracaena fragrans	Asparagaceae
+207	62	3	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+207	62	3	199	0	10	Pachystela msolo	Sapotaceae
+207	62	3	38	0	2	Pteris burtoni	Pteridaceae
+207	62	4	10	0	5	Dracaena fragrans	Asparagaceae
+207	62	4	86	0	1	Rubiaceae	Rubiaceae
+207	62	4	11	0	30	Pseudoranthemum ludovicianum	Acanthaceae
+207	62	4	55	1	0	Asplenium	
+207	62	4	35	1	0	Leptapsis sp	
+207	62	5	218	0	40	Monanthotaxis littoralis	Annonaceae
+207	62	5	10	0	20	Dracaena fragrans	Asparagaceae
+207	62	5	31	1	0	Maranthacloa lutea	Marantaceae
+207	62	6	7	1	0	Celtis durandii	Ulmaceae
+207	62	6	55	0	20	Asplenium	
+207	62	6	45	1	0	Pollia condensata	Commelinaceae
+207	62	6	35	0	5	Leptapsis sp	
+207	62	6	10	0	5	Dracaena fragrans	Asparagaceae
+207	62	6	55	0	2	Asplenium	
+207	62	6	48	1	0	Caelsalpinia bonduc	Caesalpinaceae
+207	63	0	8	3	0	Markhamia lutea	Bignoniaceae
+207	63	0	5	2	0	Diospyros abyssinica	Ebenaceae
+207	63	0	41	1	0	Ficus exesparata	Moraceae
+207	63	0	9	1	0	Funtumia elastica	Apocynaceae
+207	63	0	42	2	0	Aphania senegelensis	Sapindaceae
+207	63	0	20	2	0	Antiaris toxicaria	Moraceae
+207	63	0	2	2	0	Celtis mildbreadii	Ulmaceae
+207	63	1	11	0	30	Pseudoranthemum ludovicianum	Acanthaceae
+207	63	1	17	0	10	Acalypha neptunica	Euphobiaceae
+207	63	1	48	1	0	Caelsalpinia bonduc	Caesalpinaceae
+207	63	1	35	0	1	Leptapsis sp	
+207	63	1	38	1	0	Pteris burtoni	Pteridaceae
+207	63	1	5	1	0	Diospyros abyssinica	Ebenaceae
+207	63	2	45	1	0	Pollia condensata	Commelinaceae
+207	63	2	35	0	2	Leptapsis sp	
+207	63	2	17	0	5	Acalypha neptunica	Euphobiaceae
+207	63	2	49	1	0	Artabotrys likemensis	Annoncaceae
+207	63	2	15	1	0	Argomuellera macrophylla	Euphobiaceae
+207	63	2	38	0	1	Pteris burtoni	Pteridaceae
+207	63	2	50	1	0	Lindackeria schweinfurthii	Flacourtiaceae
+207	63	3	35	0	10	Leptapsis sp	
+207	63	3	50	1	0	Lindackeria schweinfurthii	Flacourtiaceae
+207	63	3	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+207	63	3	17	0	20	Acalypha neptunica	Euphobiaceae
+207	63	3	37	1	0	Pulsota sp	
+207	63	3	19	1	0	Albizia grandibracteata	Leguminosae
+207	63	4	48	1	0	Caelsalpinia bonduc	Caesalpinaceae
+207	63	4	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+207	63	4	35	0	20	Leptapsis sp	
+207	63	4	16	1	0	Culcasia falcifolia	Araceae
+207	63	4	51	1	0	Khaya anthotheca	Meliaceae
+207	63	4	19	1	0	Albizia grandibracteata	Leguminosae
+207	63	4	52	1	0	Strychnos mitis	Loganiaceae
+207	63	5	35	0	30	Leptapsis sp	
+207	63	5	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+207	63	5	98	1	0	Combretum fuscum	Combretaceae
+207	63	5	61	1	0	Monodora angolensis	Annonaceae
+207	63	5	4	1	0	Malnilkara dawei	Sapotaceae
+226	20	0	44	6	0	Kigeria africana	Bignonaceae
+226	20	0	9	2	0	Funtumia elastica	Apocynaceae
+226	20	0	67	3	0	Ficus asperifolia	Moraceae
+226	20	0	7	1	0	Celtis durandii	Ulmaceae
+226	20	0	2	1	0	Celtis mildbreadii	Ulmaceae
+226	20	1	17	0	5	Acalypha neptunica	Euphobiaceae
+226	20	1	94	0	10	Maranthocloa purpulea	Marantaceae
+226	20	1	88	1	0	Olyra latifolia	Poaceae
+226	20	1	11	0	45	Pseudoranthemum ludovicianum	Acanthaceae
+226	20	1	35	0	5	Leptapsis sp	
+226	20	2	11	0	1	Pseudoranthemum ludovicianum	Acanthaceae
+226	20	2	14	1	0	Teclea nobilis	Rutaceae
+226	20	2	94	0	10	Maranthocloa purpulea	Marantaceae
+226	20	2	1	1	0	Albizia gumiifera	Leguminosae
+226	20	3	94	0	10	Maranthocloa purpulea	Marantaceae
+226	20	4	11	1	0	Pseudoranthemum ludovicianum	Acanthaceae
+226	20	4	17	0	5	Acalypha neptunica	Euphobiaceae
+226	21	0	5	1	0	Diospyros abyssinica	Ebenaceae
+226	21	0	9	2	0	Funtumia elastica	Apocynaceae
+226	21	0	44	2	0	Kigeria africana	Bignonaceae
+226	21	0	23	4	0	Ficus sur	Moraceae
+226	21	0	13	1	0	Entandophragma sp	Meliaceae
+226	21	0	2	3	0	Celtis mildbreadii	Ulmaceae
+226	21	0	20	1	0	Antiaris toxicaria	Moraceae
+226	21	0	27	1	0	Myrianthus holstii	Moraceae
+226	21	1	4	1	0	Malnilkara dawei	Sapotaceae
+226	21	1	15	0	5	Argomuellera macrophylla	Euphobiaceae
+226	21	1	26	1	0	Tabernaemontana holstii	Apocynaceae
+226	21	1	10	0	5	Dracaena fragrans	Asparagaceae
+226	21	1	17	0	5	Acalypha neptunica	Euphobiaceae
+226	21	1	49	1	0	Artabotrys likemensis	Annoncaceae
+226	21	1	35	0	1	Leptapsis sp	
+226	21	1	48	1	0	Caelsalpinia bonduc	Caesalpinaceae
+226	21	2	49	1	0	Artabotrys likemensis	Annoncaceae
+226	21	2	15	0	10	Argomuellera macrophylla	Euphobiaceae
+226	21	2	14	1	0	Teclea nobilis	Rutaceae
+226	21	2	38	1	0	Pteris burtoni	Pteridaceae
+226	21	2	10	2	0	Dracaena fragrans	Asparagaceae
+226	21	2	17	0	5	Acalypha neptunica	Euphobiaceae
+226	21	2	35	0	5	Leptapsis sp	
+226	21	3	15	0	5	Argomuellera macrophylla	Euphobiaceae
+226	21	3	17	0	30	Acalypha neptunica	Euphobiaceae
+226	21	3	142	4	0	Corymborkis corymbis	Orchidaceae
+226	21	3	38	1	0	Pteris burtoni	Pteridaceae
+226	21	3	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+226	21	4	10	0	60	Dracaena fragrans	Asparagaceae
+226	21	4	17	0	30	Acalypha neptunica	Euphobiaceae
+226	21	4	38	1	0	Pteris burtoni	Pteridaceae
+226	21	4	11	1	0	Pseudoranthemum ludovicianum	Acanthaceae
+226	21	4	15	1	0	Argomuellera macrophylla	Euphobiaceae
+226	21	4	9	3	0	Funtumia elastica	Apocynaceae
+226	21	5	94	0	10	Maranthocloa purpulea	Marantaceae
+226	21	5	2	1	0	Celtis mildbreadii	Ulmaceae
+226	21	5	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+226	21	5	35	0	1	Leptapsis sp	
+226	21	5	26	1	0	Tabernaemontana holstii	Apocynaceae
+226	40	0	98	2	0	Combretum fuscum	Combretaceae
+226	40	0	26	1	0	Tabernaemontana holstii	Apocynaceae
+226	40	0	42	2	0	Aphania senegelensis	Sapindaceae
+226	40	0	2	2	0	Celtis mildbreadii	Ulmaceae
+226	40	0	97	1	0	Chrysophyllum albidum	Sapotaceae
+226	40	0	9	5	0	Funtumia elastica	Apocynaceae
+226	40	0	74	1	0	Croton macrostachyus	Euphorbiaceae
+226	40	0	7	1	0	Celtis durandii	Ulmaceae
+226	40	1	17	0	5	Acalypha neptunica	Euphobiaceae
+226	40	1	10	0	5	Dracaena fragrans	Asparagaceae
+226	40	1	11	0	20	Pseudoranthemum ludovicianum	Acanthaceae
+226	40	1	35	0	5	Leptapsis sp	
+226	40	1	142	1	0	Corymborkis corymbis	Orchidaceae
+226	40	1	8	1	0	Markhamia lutea	Bignoniaceae
+226	40	1	51	1	0	Khaya anthotheca	Meliaceae
+226	40	2	49	1	0	Artabotrys likemensis	Annoncaceae
+226	40	2	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+226	40	2	10	0	10	Dracaena fragrans	Asparagaceae
+226	40	2	17	0	5	Acalypha neptunica	Euphobiaceae
+226	40	2	86	0	10	Rubiaceae	Rubiaceae
+226	40	3	11	0	30	Pseudoranthemum ludovicianum	Acanthaceae
+226	40	3	17	0	5	Acalypha neptunica	Euphobiaceae
+226	40	3	10	0	2	Dracaena fragrans	Asparagaceae
+226	40	3	9	1	0	Funtumia elastica	Apocynaceae
+226	40	4	17	0	30	Acalypha neptunica	Euphobiaceae
+226	40	4	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+226	40	4	35	0	1	Leptapsis sp	
+226	40	4	26	1	0	Tabernaemontana holstii	Apocynaceae
+226	40	4	10	1	0	Dracaena fragrans	Asparagaceae
+226	40	4	20	1	0	Antiaris toxicaria	Moraceae
+226	40	5	10	0	30	Dracaena fragrans	Asparagaceae
+226	40	5	17	0	20	Acalypha neptunica	Euphobiaceae
+226	40	5	35	0	5	Leptapsis sp	
+226	40	5	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+226	40	5	8	1	0	Markhamia lutea	Bignoniaceae
+226	41	0	1	1	0	Albizia gumiifera	Leguminosae
+226	41	0	90	1	0	Macaranga angolensis	Euphorbiaceae
+226	41	0	25	2	0	Celtis wightii	Ulmaceae
+226	41	0	62	1	0	Macaranga monondra	Euphorbiaceae
+226	41	0	9	1	0	Funtumia elastica	Apocynaceae
+226	41	0	26	1	0	Tabernaemontana holstii	Apocynaceae
+226	41	0	42	1	0	Aphania senegelensis	Sapindaceae
+226	41	0	2	1	0	Celtis mildbreadii	Ulmaceae
+226	41	1	48	1	0	Caelsalpinia bonduc	Caesalpinaceae
+226	41	1	35	0	20	Leptapsis sp	
+226	41	1	11	0	40	Pseudoranthemum ludovicianum	Acanthaceae
+226	41	1	9	2	0	Funtumia elastica	Apocynaceae
+226	41	1	10	0	10	Dracaena fragrans	Asparagaceae
+226	41	1	63	1	0	Coffee	Rubiaceae
+226	41	1	16	1	0	Culcasia falcifolia	Araceae
+226	41	1	85	1	0	Reneria congrana	
+226	41	2	86	0	5	Rubiaceae	Rubiaceae
+226	41	2	35	0	20	Leptapsis sp	
+226	41	2	63	1	0	Coffee	Rubiaceae
+226	41	2	11	0	30	Pseudoranthemum ludovicianum	Acanthaceae
+226	41	2	87	1	0	Tacca leontopetaloides	Taccaceae
+226	41	2	45	1	0	Pollia condensata	Commelinaceae
+226	41	2	88	1	0	Olyra latifolia	Poaceae
+226	41	2	17	0	5	Acalypha neptunica	Euphobiaceae
+226	41	3	10	1	0	Dracaena fragrans	Asparagaceae
+226	41	3	35	30	0	Leptapsis sp	
+226	41	3	2	1	0	Celtis mildbreadii	Ulmaceae
+226	41	3	17	0	5	Acalypha neptunica	Euphobiaceae
+226	41	4	10	0	40	Dracaena fragrans	Asparagaceae
+226	41	4	17	0	5	Acalypha neptunica	Euphobiaceae
+226	41	4	11	0	20	Pseudoranthemum ludovicianum	Acanthaceae
+226	41	4	35	0	5	Leptapsis sp	
+226	41	4	5	1	0	Diospyros abyssinica	Ebenaceae
+226	41	4	86	0	1	Rubiaceae	Rubiaceae
+226	41	5	45	1	0	Pollia condensata	Commelinaceae
+226	41	5	10	0	20	Dracaena fragrans	Asparagaceae
+226	41	5	35	0	20	Leptapsis sp	
+226	41	5	5	2	0	Diospyros abyssinica	Ebenaceae
+226	41	5	17	0	5	Acalypha neptunica	Euphobiaceae
+226	41	5	42	2	0	Aphania senegelensis	Sapindaceae
+226	41	5	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+226	41	5	89	1	0	Clausena anisata	Rutaceae
+226	41	5	51	1	0	Khaya anthotheca	Meliaceae
+177	55	0	22	1	0	Ficus mucuso	Moraceae
+177	55	0	7	1	0	Celtis durandii	Ulmaceae
+177	55	0	13	1	0	Entandophragma sp	Meliaceae
+177	55	0	19	3	0	Albizia grandibracteata	Leguminosae
+177	55	0	39	1	0	Cordia africana	Boraginaceae
+177	55	0	41	1	0	Ficus exesparata	Moraceae
+177	55	1	11	0	50	Pseudoranthemum ludovicianum	Acanthaceae
+177	55	1	31	0	30	Maranthacloa lutea	Marantaceae
+177	55	1	37	0	10	Pulsota sp	
+177	55	1	38	0	5	Pteris burtoni	Pteridaceae
+177	55	1	17	0	2	Acalypha neptunica	Euphobiaceae
+177	55	2	11	0	80	Pseudoranthemum ludovicianum	Acanthaceae
+177	55	2	17	0	10	Acalypha neptunica	Euphobiaceae
+177	55	2	13	0	1	Entandophragma sp	Meliaceae
+177	55	2	31	0	2	Maranthacloa lutea	Marantaceae
+177	55	2	37	0	5	Pulsota sp	
+177	55	2	38	0	2	Pteris burtoni	Pteridaceae
+177	55	3	17	0	2	Acalypha neptunica	Euphobiaceae
+177	55	3	11	0	70	Pseudoranthemum ludovicianum	Acanthaceae
+177	55	3	37	0	5	Pulsota sp	
+177	55	3	38	0	2	Pteris burtoni	Pteridaceae
+177	55	3	31	0	5	Maranthacloa lutea	Marantaceae
+177	55	3	33	0	1	Broussonetia papyrifea	Moraceae
+177	55	4	11	0	80	Pseudoranthemum ludovicianum	Acanthaceae
+177	55	4	37	0	2	Pulsota sp	
+177	55	4	31	0	3	Maranthacloa lutea	Marantaceae
+177	55	4	17	0	5	Acalypha neptunica	Euphobiaceae
+177	55	4	38	0	2	Pteris burtoni	Pteridaceae
+177	56	0	19	2	0	Albizia grandibracteata	Leguminosae
+177	56	0	13	2	0	Entandophragma sp	Meliaceae
+177	56	0	23	2	0	Ficus sur	Moraceae
+177	56	0	25	2	0	Celtis wightii	Ulmaceae
+177	56	0	26	1	0	Tabernaemontana holstii	Apocynaceae
+177	56	1	17	0	80	Acalypha neptunica	Euphobiaceae
+177	56	1	11	0	50	Pseudoranthemum ludovicianum	Acanthaceae
+177	56	1	10	1	0	Dracaena fragrans	Asparagaceae
+177	56	1	25	1	0	Celtis wightii	Ulmaceae
+177	56	1	19	1	0	Albizia grandibracteata	Leguminosae
+177	56	1	88	0	1	Olyra latifolia	Poaceae
+177	56	1	5	1	0	Diospyros abyssinica	Ebenaceae
+177	56	2	17	0	80	Acalypha neptunica	Euphobiaceae
+177	56	2	38	0	1	Pteris burtoni	Pteridaceae
+177	56	2	5	1	0	Diospyros abyssinica	Ebenaceae
+177	56	2	35	0	1	Leptapsis sp	
+177	56	2	10	0	1	Dracaena fragrans	Asparagaceae
+177	56	2	33	1	0	Broussonetia papyrifea	Moraceae
+177	56	2	15	2	0	Argomuellera macrophylla	Euphobiaceae
+177	56	3	25	2	0	Celtis wightii	Ulmaceae
+177	56	3	11	0	2	Pseudoranthemum ludovicianum	Acanthaceae
+177	56	3	17	0	80	Acalypha neptunica	Euphobiaceae
+177	56	3	71	0	20	Euphorbiacea sp	Euphorbiaceae
+177	56	3	16	0	1	Culcasia falcifolia	Araceae
+177	56	3	35	0	1	Leptapsis sp	
+177	56	3	37	6	0	Pulsota sp	
+177	56	4	19	4	0	Albizia grandibracteata	Leguminosae
+177	56	4	17	0	80	Acalypha neptunica	Euphobiaceae
+177	56	4	38	0	2	Pteris burtoni	Pteridaceae
+177	56	4	15	4	0	Argomuellera macrophylla	Euphobiaceae
+177	56	4	33	0	2	Broussonetia papyrifea	Moraceae
+177	56	4	10	0	1	Dracaena fragrans	Asparagaceae
+177	56	4	37	0	1	Pulsota sp	
+177	56	4	16	0	1	Culcasia falcifolia	Araceae
+177	56	4	71	1	0	Euphorbiacea sp	Euphorbiaceae
+177	74	0	33	2	0	Broussonetia papyrifea	Moraceae
+177	74	0	22	2	0	Ficus mucuso	Moraceae
+177	74	0	20	1	0	Antiaris toxicaria	Moraceae
+177	74	0	2	2	0	Celtis mildbreadii	Ulmaceae
+177	74	0	25	3	0	Celtis wightii	Ulmaceae
+177	74	0	42	1	0	Aphania senegelensis	Sapindaceae
+177	74	0	31	1	0	Maranthacloa lutea	Marantaceae
+177	74	1	10	0	80	Dracaena fragrans	Asparagaceae
+177	74	1	15	0	5	Argomuellera macrophylla	Euphobiaceae
+177	74	1	17	0	40	Acalypha neptunica	Euphobiaceae
+177	74	1	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+177	74	1	75	1	0	Piper sp	Piperaceae
+177	74	2	17	0	8	Acalypha neptunica	Euphobiaceae
+177	74	2	10	0	1	Dracaena fragrans	Asparagaceae
+177	74	2	15	0	1	Argomuellera macrophylla	Euphobiaceae
+177	74	2	25	1	0	Celtis wightii	Ulmaceae
+177	74	3	19	1	0	Albizia grandibracteata	Leguminosae
+177	74	3	10	0	50	Dracaena fragrans	Asparagaceae
+177	74	3	17	0	30	Acalypha neptunica	Euphobiaceae
+177	74	3	33	0	1	Broussonetia papyrifea	Moraceae
+177	74	3	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+177	74	4	17	0	50	Acalypha neptunica	Euphobiaceae
+177	74	4	10	0	50	Dracaena fragrans	Asparagaceae
+177	74	4	15	0	10	Argomuellera macrophylla	Euphobiaceae
+177	74	4	11	0	1	Pseudoranthemum ludovicianum	Acanthaceae
+177	74	4	33	0	1	Broussonetia papyrifea	Moraceae
+177	74	5	17	0	50	Acalypha neptunica	Euphobiaceae
+177	74	5	10	0	40	Dracaena fragrans	Asparagaceae
+177	74	5	13	2	0	Entandophragma sp	Meliaceae
+177	74	5	75	1	0	Piper sp	Piperaceae
+177	74	5	98	0	1	Combretum fuscum	Combretaceae
+177	74	5	88	0	1	Olyra latifolia	Poaceae
+177	78	0	9	1	0	Funtumia elastica	Apocynaceae
+177	78	0	5	1	0	Diospyros abyssinica	Ebenaceae
+177	78	0	25	3	0	Celtis wightii	Ulmaceae
+177	78	0	19	2	0	Albizia grandibracteata	Leguminosae
+177	78	0	20	2	0	Antiaris toxicaria	Moraceae
+177	78	0	7	1	0	Celtis durandii	Ulmaceae
+177	78	0	22	2	0	Ficus mucuso	Moraceae
+177	78	0	21	1	0	Alstonia boonei	Apocynaceae
+177	78	1	10	0	50	Dracaena fragrans	Asparagaceae
+177	78	1	15	0	10	Argomuellera macrophylla	Euphobiaceae
+177	78	1	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+177	78	1	17	0	10	Acalypha neptunica	Euphobiaceae
+177	78	1	88	0	1	Olyra latifolia	Poaceae
+177	78	1	19	2	0	Albizia grandibracteata	Leguminosae
+177	78	2	17	0	70	Acalypha neptunica	Euphobiaceae
+177	78	2	11	0	40	Pseudoranthemum ludovicianum	Acanthaceae
+177	78	2	15	0	5	Argomuellera macrophylla	Euphobiaceae
+177	78	2	10	0	1	Dracaena fragrans	Asparagaceae
+177	78	3	17	0	80	Acalypha neptunica	Euphobiaceae
+177	78	3	11	0	50	Pseudoranthemum ludovicianum	Acanthaceae
+177	78	3	14	1	0	Teclea nobilis	Rutaceae
+177	78	3	15	0	1	Argomuellera macrophylla	Euphobiaceae
+177	78	3	71	0	2	Euphorbiacea sp	Euphorbiaceae
+177	78	4	10	0	60	Dracaena fragrans	Asparagaceae
+177	78	4	11	0	40	Pseudoranthemum ludovicianum	Acanthaceae
+177	78	4	13	1	0	Entandophragma sp	Meliaceae
+177	78	5	11	0	40	Pseudoranthemum ludovicianum	Acanthaceae
+177	78	5	17	0	40	Acalypha neptunica	Euphobiaceae
+177	78	5	10	0	20	Dracaena fragrans	Asparagaceae
+177	78	5	15	0	5	Argomuellera macrophylla	Euphobiaceae
+177	78	5	16	0	1	Culcasia falcifolia	Araceae
+177	78	5	13	1	0	Entandophragma sp	Meliaceae
+181	11	0	33	14	0	Broussonetia papyrifea	Moraceae
+181	11	0	19	2	0	Albizia grandibracteata	Leguminosae
+181	11	1	17	0	20	Acalypha neptunica	Euphobiaceae
+181	11	1	36	1	0	Parvetta ternifolia	
+181	11	1	35	0	1	Leptapsis sp	
+181	11	1	32	4	0	Drypetes ugandensis	Euphorbiaceae
+181	11	1	14	2	0	Teclea nobilis	Rutaceae
+181	11	1	33	0	5	Broussonetia papyrifea	Moraceae
+181	11	2	34	1	0	Toddalia asiatica	Rutaceae
+181	11	2	31	3	0	Maranthacloa lutea	Marantaceae
+181	11	2	16	1	0	Culcasia falcifolia	Araceae
+181	11	2	33	0	5	Broussonetia papyrifea	Moraceae
+181	11	3	31	10	0	Maranthacloa lutea	Marantaceae
+181	11	3	17	1	0	Acalypha neptunica	Euphobiaceae
+181	11	3	14	1	0	Teclea nobilis	Rutaceae
+181	11	3	33	1	0	Broussonetia papyrifea	Moraceae
+181	11	3	38	3	0	Pteris burtoni	Pteridaceae
+181	11	3	25	2	0	Celtis wightii	Ulmaceae
+181	11	3	35	1	0	Leptapsis sp	
+181	11	4	31	0	5	Maranthacloa lutea	Marantaceae
+181	11	4	17	0	5	Acalypha neptunica	Euphobiaceae
+181	11	4	33	0	5	Broussonetia papyrifea	Moraceae
+181	11	4	11	0	10	Pseudoranthemum ludovicianum	Acanthaceae
+181	11	4	77	0	1	Christella parasitica	Thelypteridaceae
+181	11	5	35	0	1	Leptapsis sp	
+181	11	5	17	0	30	Acalypha neptunica	Euphobiaceae
+181	11	5	33	0	10	Broussonetia papyrifea	Moraceae
+181	11	5	98	1	0	Combretum fuscum	Combretaceae
+181	11	6	17	3	0	Acalypha neptunica	Euphobiaceae
+181	11	6	98	3	0	Combretum fuscum	Combretaceae
+181	11	6	33	0	5	Broussonetia papyrifea	Moraceae
+181	11	6	31	10	0	Maranthacloa lutea	Marantaceae
+181	11	6	17	0	5	Acalypha neptunica	Euphobiaceae
+181	11	6	78	5	0	Aframomum mildbraedii	Zingiberaceae
+181	14	0	33	6	0	Broussonetia papyrifea	Moraceae
+181	14	0	25	2	0	Celtis wightii	Ulmaceae
+181	14	1	17	0	80	Acalypha neptunica	Euphobiaceae
+181	14	1	33	0	5	Broussonetia papyrifea	Moraceae
+181	14	1	10	3	0	Dracaena fragrans	Asparagaceae
+181	14	1	31	1	0	Maranthacloa lutea	Marantaceae
+181	14	1	14	1	0	Teclea nobilis	Rutaceae
+181	14	1	25	1	0	Celtis wightii	Ulmaceae
+181	14	2	72	1	0	Paulina pinnata	Sapindaceae
+181	14	2	17	0	40	Acalypha neptunica	Euphobiaceae
+181	14	2	33	0	30	Broussonetia papyrifea	Moraceae
+181	14	2	4	1	0	Malnilkara dawei	Sapotaceae
+181	14	2	10	1	0	Dracaena fragrans	Asparagaceae
+181	14	2	181	1	0	Pseudochinoclea sp	Poaceae
+181	14	2	11	4	0	Pseudoranthemum ludovicianum	Acanthaceae
+181	14	2	25	1	0	Celtis wightii	Ulmaceae
+181	14	3	31	1	0	Maranthacloa lutea	Marantaceae
+181	14	3	10	1	0	Dracaena fragrans	Asparagaceae
+181	14	3	17	0	30	Acalypha neptunica	Euphobiaceae
+181	14	3	181	0	2	Pseudochinoclea sp	Poaceae
+181	14	3	25	1	0	Celtis wightii	Ulmaceae
+181	14	3	32	1	0	Drypetes ugandensis	Euphorbiaceae
+181	14	3	19	1	0	Albizia grandibracteata	Leguminosae
+181	14	3	42	1	0	Aphania senegelensis	Sapindaceae
+181	14	3	33	0	20	Broussonetia papyrifea	Moraceae
+181	14	3	16	1	0	Culcasia falcifolia	Araceae
+181	14	4	10	1	0	Dracaena fragrans	Asparagaceae
+181	14	4	31	1	0	Maranthacloa lutea	Marantaceae
+181	14	4	64	1	0	Drypetes sp	Euphorbiaceae
+181	14	4	17	0	10	Acalypha neptunica	Euphobiaceae
+181	14	4	33	0	2	Broussonetia papyrifea	Moraceae
+181	14	5	15	1	0	Argomuellera macrophylla	Euphobiaceae
+181	14	5	10	6	0	Dracaena fragrans	Asparagaceae
+181	14	5	33	0	5	Broussonetia papyrifea	Moraceae
+181	14	5	17	0	60	Acalypha neptunica	Euphobiaceae
+181	14	5	61	1	0	Monodora angolensis	Annonaceae
+181	14	5	9	1	0	Funtumia elastica	Apocynaceae
+181	14	5	31	0	2	Maranthacloa lutea	Marantaceae
+181	14	6	17	0	50	Acalypha neptunica	Euphobiaceae
+181	14	6	10	10	0	Dracaena fragrans	Asparagaceae
+181	14	6	33	0	20	Broussonetia papyrifea	Moraceae
+181	14	6	42	2	0	Aphania senegelensis	Sapindaceae
+181	14	6	15	1	0	Argomuellera macrophylla	Euphobiaceae
+181	13	1	33	16	0	Broussonetia papyrifea	Moraceae
+181	13	1	25	2	0	Celtis wightii	Ulmaceae
+181	13	1	51	1	0	Khaya anthotheca	Meliaceae
+181	13	1	33	0	70	Broussonetia papyrifea	Moraceae
+181	13	1	17	0	30	Acalypha neptunica	Euphobiaceae
+181	13	1	10	5	0	Dracaena fragrans	Asparagaceae
+181	13	2	15	4	0	Argomuellera macrophylla	Euphobiaceae
+181	13	2	17	0	50	Acalypha neptunica	Euphobiaceae
+181	13	2	33	0	50	Broussonetia papyrifea	Moraceae
+181	13	2	25	1	0	Celtis wightii	Ulmaceae
+181	13	2	10	1	0	Dracaena fragrans	Asparagaceae
+181	13	3	25	6	0	Celtis wightii	Ulmaceae
+181	13	3	33	1	0	Broussonetia papyrifea	Moraceae
+181	13	3	31	6	0	Maranthacloa lutea	Marantaceae
+181	13	3	17	0	30	Acalypha neptunica	Euphobiaceae
+181	13	3	15	10	0	Argomuellera macrophylla	Euphobiaceae
+181	13	3	10	4	0	Dracaena fragrans	Asparagaceae
+181	13	3	89	1	0	Clausena anisata	Rutaceae
+181	13	4	17	0	50	Acalypha neptunica	Euphobiaceae
+181	13	4	11	4	0	Pseudoranthemum ludovicianum	Acanthaceae
+181	13	4	33	0	40	Broussonetia papyrifea	Moraceae
+181	13	4	10	1	0	Dracaena fragrans	Asparagaceae
+181	13	4	51	1	0	Khaya anthotheca	Meliaceae
+181	13	4	78	1	0	Aframomum mildbraedii	Zingiberaceae
+181	12	1	33	12	0	Broussonetia papyrifea	Moraceae
+181	12	1	15	2	0	Argomuellera macrophylla	Euphobiaceae
+181	12	1	17	0	30	Acalypha neptunica	Euphobiaceae
+181	12	1	6	1	0	Bilghia unijugata	Sapindaceae
+181	12	1	78	0	5	Aframomum mildbraedii	Zingiberaceae
+181	12	1	10	0	10	Dracaena fragrans	Asparagaceae
+181	12	1	72	1	0	Paulina pinnata	Sapindaceae
+181	12	1	4	1	0	Malnilkara dawei	Sapotaceae
+181	12	1	67	1	0	Ficus asperifolia	Moraceae
+181	12	1	64	1	0	Drypetes sp	Euphorbiaceae
+181	12	2	19	1	0	Albizia grandibracteata	Leguminosae
+181	12	2	33	0	5	Broussonetia papyrifea	Moraceae
+181	12	2	10	0	5	Dracaena fragrans	Asparagaceae
+181	12	2	17	0	10	Acalypha neptunica	Euphobiaceae
+181	12	2	15	2	0	Argomuellera macrophylla	Euphobiaceae
+181	12	2	25	1	0	Celtis wightii	Ulmaceae
+181	12	2	96	1	0	Acanthaceae sp	Acanthaceae
+181	12	2	78	1	0	Aframomum mildbraedii	Zingiberaceae
+181	12	3	19	2	0	Albizia grandibracteata	Leguminosae
+181	12	3	17	0	5	Acalypha neptunica	Euphobiaceae
+181	12	3	33	0	10	Broussonetia papyrifea	Moraceae
+181	12	3	10	0	5	Dracaena fragrans	Asparagaceae
+181	12	3	16	1	0	Culcasia falcifolia	Araceae
+181	12	3	15	1	0	Argomuellera macrophylla	Euphobiaceae
+181	12	3	25	1	0	Celtis wightii	Ulmaceae
+181	12	4	17	0	50	Acalypha neptunica	Euphobiaceae
+181	12	4	6	4	0	Bilghia unijugata	Sapindaceae
+181	12	4	78	5	0	Aframomum mildbraedii	Zingiberaceae
+181	12	4	15	1	0	Argomuellera macrophylla	Euphobiaceae
+181	12	4	10	1	0	Dracaena fragrans	Asparagaceae
+181	12	4	19	1	0	Albizia grandibracteata	Leguminosae
+181	12	5	17	0	5	Acalypha neptunica	Euphobiaceae
+181	12	5	10	0	2	Dracaena fragrans	Asparagaceae
+181	12	5	33	0	5	Broussonetia papyrifea	Moraceae
+181	12	5	12	1	0	Citropsis articulata	Rutaceae
+181	12	6	17	0	10	Acalypha neptunica	Euphobiaceae
+181	12	6	10	1	0	Dracaena fragrans	Asparagaceae
+181	12	6	31	1	0	Maranthacloa lutea	Marantaceae
+181	12	6	33	0	1	Broussonetia papyrifea	Moraceae
+181	12	6	42	1		Aphania senegelensis	Sapindaceae
+181	12	6	32	1	0	Drypetes ugandensis	Euphorbiaceae
+181	12	6	21	1	0	Alstonia boonei	Apocynaceae
+189	52	0	19	2	0	Albizia grandibracteata	Leguminosae
+189	52	0	9	1	0	Funtumia elastica	Apocynaceae
+189	52	0	7	2	0	Celtis durandii	Ulmaceae
+189	52	1	15	0	10	Argomuellera macrophylla	Euphobiaceae
+189	52	1	75	1	0	Piper sp	Piperaceae
+189	52	1	35	0	1	Leptapsis sp	
+189	52	1	88	0	1	Olyra latifolia	Poaceae
+189	52	1	10	0	20	Dracaena fragrans	Asparagaceae
+189	52	1	11	0	1	Pseudoranthemum ludovicianum	Acanthaceae
+189	52	1	38	0	2	Pteris burtoni	Pteridaceae
+189	52	2	15	0	10	Argomuellera macrophylla	Euphobiaceae
+189	52	2	10	0	40	Dracaena fragrans	Asparagaceae
+189	52	2	38	0	2	Pteris burtoni	Pteridaceae
+189	52	2	14	1	0	Teclea nobilis	Rutaceae
+189	52	2	88	0	1	Olyra latifolia	Poaceae
+189	52	2	17	0	1	Acalypha neptunica	Euphobiaceae
+181	52	2	90	1	0	Macaranga angolensis	Euphorbiaceae
+189	52	2	71	1	0	Euphorbiacea sp	Euphorbiaceae
+189	52	3	10	0	70	Dracaena fragrans	Asparagaceae
+189	52	3	35	0	2	Leptapsis sp	
+189	52	3	15	0	5	Argomuellera macrophylla	Euphobiaceae
+189	52	3	14	1	0	Teclea nobilis	Rutaceae
+189	52	3	17	0	1	Acalypha neptunica	Euphobiaceae
+189	52	5	15	0	5	Argomuellera macrophylla	Euphobiaceae
+189	52	5	17	0	1	Acalypha neptunica	Euphobiaceae
+189	52	5	38	0	2	Pteris burtoni	Pteridaceae
+189	52	5	37	1	0	Pulsota sp	
+189	52	6	78	1	0	Aframomum mildbraedii	Zingiberaceae
+189	52	6	10	0	30	Dracaena fragrans	Asparagaceae
+189	52	6	38	0	1	Pteris burtoni	Pteridaceae
+189	52	6	17	0	1	Acalypha neptunica	Euphobiaceae
+189	52	6	35	0	5	Leptapsis sp	
+189	52	6	86	0	1	Rubiaceae	Rubiaceae
+189	54	0	7	2	0	Celtis durandii	Ulmaceae
+189	54	0	25	1	0	Celtis wightii	Ulmaceae
+189	54	0	5	2	0	Diospyros abyssinica	Ebenaceae
+189	54	0	19	1	0	Albizia grandibracteata	Leguminosae
+189	54	0	20	1	0	Antiaris toxicaria	Moraceae
+189	7	0	24	1	0	Measopsi eminii	
+189	7	0	25	1	0	Celtis wightii	Ulmaceae
+189	7	0	23	1	0	Ficus sur	Moraceae
+189	7	0	22	1	0	Ficus mucuso	Moraceae
+189	7	1	35	0	30	Leptapsis sp	
+189	7	1	7	4	0	Celtis durandii	Ulmaceae
+189	7	1	17	0	5	Acalypha neptunica	Euphobiaceae
+189	7	1	14	4	0	Teclea nobilis	Rutaceae
+189	7	1	78	0	10	Aframomum mildbraedii	Zingiberaceae
+189	7	1	15	1	0	Argomuellera macrophylla	Euphobiaceae
+189	7	1	66	1	0	Hibiscus calyphyllus	Malvaceae
+189	7	2	17	1	0	Acalypha neptunica	Euphobiaceae
+189	7	2	35	0	40	Leptapsis sp	
+189	7	2	14	3	0	Teclea nobilis	Rutaceae
+189	7	2	32	1	0	Drypetes ugandensis	Euphorbiaceae
+189	7	2	64	1	0	Drypetes sp	Euphorbiaceae
+189	7	2	15	4	0	Argomuellera macrophylla	Euphobiaceae
+189	7	2	4	1	0	Malnilkara dawei	Sapotaceae
+189	7	3	15	3	0	Argomuellera macrophylla	Euphobiaceae
+189	7	3	35	0	5	Leptapsis sp	
+189	7	3	64	0	5	Drypetes sp	Euphorbiaceae
+189	7	3	14	1	0	Teclea nobilis	Rutaceae
+189	7	3	78	5	0	Aframomum mildbraedii	Zingiberaceae
+189	7	3	17	0	5	Acalypha neptunica	Euphobiaceae
+189	7	3	51	1	0	Khaya anthotheca	Meliaceae
+189	7	4	33	3	0	Broussonetia papyrifea	Moraceae
+189	7	4	35	0	2	Leptapsis sp	
+189	7	4	17	0	5	Acalypha neptunica	Euphobiaceae
+189	7	4	15	5	0	Argomuellera macrophylla	Euphobiaceae
+189	7	4	32	0	5	Drypetes ugandensis	Euphorbiaceae
+189	7	4	7	1	0	Celtis durandii	Ulmaceae
+189	7	5	15	4	0	Argomuellera macrophylla	Euphobiaceae
+189	7	5	14	3	0	Teclea nobilis	Rutaceae
+189	7	5	32	0	2	Drypetes ugandensis	Euphorbiaceae
+189	7	5	33	3	0	Broussonetia papyrifea	Moraceae
+189	7	5	9	2	0	Funtumia elastica	Apocynaceae
+189	7	6	15	10	0	Argomuellera macrophylla	Euphobiaceae
+189	7	6	48	0	5	Caelsalpinia bonduc	Caesalpinaceae
+189	7	6	4	1	0	Malnilkara dawei	Sapotaceae
+189	7	6	17	0	15	Acalypha neptunica	Euphobiaceae
+189	7	6	33	3	0	Broussonetia papyrifea	Moraceae
+189	7	6	10	3	0	Dracaena fragrans	Asparagaceae
+189	7	6	35	0	2	Leptapsis sp	
+189	7	6	9	1	0	Funtumia elastica	Apocynaceae
+189	7	6	14	4	0	Teclea nobilis	Rutaceae
+189	7	6	7	3	0	Celtis durandii	Ulmaceae
+189	7	6	11	0	4	Pseudoranthemum ludovicianum	Acanthaceae
+189	1	1	14	1	0	Teclea nobilis	Rutaceae
+189	1	1	15	0	30	Argomuellera macrophylla	Euphobiaceae
+189	1	1	88	0	1	Olyra latifolia	Poaceae
+189	1	1	10	0	50	Dracaena fragrans	Asparagaceae
+189	1	1	78	1	0	Aframomum mildbraedii	Zingiberaceae
+189	1	1	35	0	5	Leptapsis sp	
+189	1	2	17	0	5	Acalypha neptunica	Euphobiaceae
+189	1	2	14	1	0	Teclea nobilis	Rutaceae
+189	1	2	37	1	0	Pulsota sp	
+189	1	2	38	0	2	Pteris burtoni	Pteridaceae
+189	1	2	15	0	5	Argomuellera macrophylla	Euphobiaceae
+189	1	2	10	0	20	Dracaena fragrans	Asparagaceae
+189	1	2	75	1	0	Piper sp	Piperaceae
+189	1	3	79	1	0	Khaya mahogany 7	Meliaceae
+189	1	3	37	1	0	Pulsota sp	
+189	1	3	10	0	30	Dracaena fragrans	Asparagaceae
+189	1	3	15	0	10	Argomuellera macrophylla	Euphobiaceae
+189	1	3	16	0	1	Culcasia falcifolia	Araceae
+189	1	3	35	0	2	Leptapsis sp	
+189	1	3	75	0	1	Piper sp	Piperaceae
+189	1	4	10	0	50	Dracaena fragrans	Asparagaceae
+189	1	4	15	0	10	Argomuellera macrophylla	Euphobiaceae
+189	1	4	38	0	1	Pteris burtoni	Pteridaceae
+189	1	4	88	0	1	Olyra latifolia	Poaceae
+189	1	4	17	0	1	Acalypha neptunica	Euphobiaceae
+189	50	0	5	2	0	Diospyros abyssinica	Ebenaceae
+189	50	0	2	1	0	Celtis mildbreadii	Ulmaceae
+189	50	0	4	1	0	Malnilkara dawei	Sapotaceae
+189	50	0	20	1	0	Antiaris toxicaria	Moraceae
+189	50	0	39	2	0	Cordia africana	Boraginaceae
+189	50	1	15	0	50	Argomuellera macrophylla	Euphobiaceae
+189	50	1	17	0	40	Acalypha neptunica	Euphobiaceae
+189	50	1	35	0	1	Leptapsis sp	
+189	50	2	15	0	10	Argomuellera macrophylla	Euphobiaceae
+189	50	2	35	0	1	Leptapsis sp	
+189	50	2	17	0	10	Acalypha neptunica	Euphobiaceae
+189	50	3	35	0	1	Leptapsis sp	
+189	50	3	15	0	10	Argomuellera macrophylla	Euphobiaceae
+189	50	3	11	0	1	Pseudoranthemum ludovicianum	Acanthaceae
+189	50	4	14	1	0	Teclea nobilis	Rutaceae
+189	50	4	17	0	5	Acalypha neptunica	Euphobiaceae
+189	50	4	15	0	5	Argomuellera macrophylla	Euphobiaceae
+189	50	4	64	1	0	Drypetes sp	Euphorbiaceae
+189	50	5	14	1	0	Teclea nobilis	Rutaceae
+189	50	5	15	0	20	Argomuellera macrophylla	Euphobiaceae
+189	50	5	17	0	5	Acalypha neptunica	Euphobiaceae
+189	50	5	35	0	1	Leptapsis sp	
+189	50	6	12	1	0	Citropsis articulata	Rutaceae
+189	50	6	15	0	5	Argomuellera macrophylla	Euphobiaceae
+189	50	6	17	0	30	Acalypha neptunica	Euphobiaceae
+189	50	6	35	0	1	Leptapsis sp	
+189	50	6	64	1	0	Drypetes sp	Euphorbiaceae
+189	50	6	13	1	0	Entandophragma sp	Meliaceae
+189	50	6	14	1	0	Teclea nobilis	Rutaceae
+189	53	0	97	1	0	Chrysophyllum albidum	Sapotaceae
+189	53	0	43	1	0	Croton macrophyallus	Euphorbiaceae
+189	53	0	4	1	0	Malnilkara dawei	Sapotaceae
+189	53	0	7	3	0	Celtis durandii	Ulmaceae
+189	53	0	2	1	0	Celtis mildbreadii	Ulmaceae
+189	53	0	13	2	0	Entandophragma sp	Meliaceae
+189	53	0	22	1	0	Ficus mucuso	Moraceae
+189	53	0	5	1	0	Diospyros abyssinica	Ebenaceae
+189	53	1	15	0	50	Argomuellera macrophylla	Euphobiaceae
+189	53	1	35	0	1	Leptapsis sp	
+189	53	1	17	0	5	Acalypha neptunica	Euphobiaceae
+189	53	1	88	0	1	Olyra latifolia	Poaceae
+189	53	1	35	0	10	Leptapsis sp	
+189	53	2	64	1	0	Drypetes sp	Euphorbiaceae
+189	53	2	15	0	10	Argomuellera macrophylla	Euphobiaceae
+189	53	2	35	0	1	Leptapsis sp	
+189	53	2	17	0	5	Acalypha neptunica	Euphobiaceae
+189	53	3	88	0	1	Olyra latifolia	Poaceae
+189	53	3	15	0	10	Argomuellera macrophylla	Euphobiaceae
+189	53	3	17	0	10	Acalypha neptunica	Euphobiaceae
+189	53	3	35	0	30	Leptapsis sp	
+189	53	4	64	1	0	Drypetes sp	Euphorbiaceae
+189	53	4	15	0	10	Argomuellera macrophylla	Euphobiaceae
+189	53	4	35	0	5	Leptapsis sp	
+189	53	4	17	0	5	Acalypha neptunica	Euphobiaceae
+189	53	5	88	0	5	Olyra latifolia	Poaceae
+189	53	5	35	0	50	Leptapsis sp	
+189	53	5	64	1	0	Drypetes sp	Euphorbiaceae
+189	53	5	17	0	5	Acalypha neptunica	Euphobiaceae
+190	3	0	40	1	0	Peptadeniastrum africanum	Mimosaceae
+190	3	0	30	1	0	Canarium schweinfurthii	Burseraceae
+190	3	0	19	2	0	Albizia grandibracteata	Leguminosae
+190	3	0	43	3	0	Croton macrophyallus	Euphorbiaceae
+190	3	0	39	1	0	Cordia africana	Boraginaceae
+190	3	1	11	0	20	Pseudoranthemum ludovicianum	Acanthaceae
+190	3	1	17	0	10	Acalypha neptunica	Euphobiaceae
+190	3	1	19	2	0	Albizia grandibracteata	Leguminosae
+190	3	1	33	1	0	Broussonetia papyrifea	Moraceae
+190	3	1	10	1	0	Dracaena fragrans	Asparagaceae
+190	3	1	57	0	2	Climber 38	
+190	3	1	37	1	0	Pulsota sp	
+190	3	1	35	0	5	Leptapsis sp	
+190	3	1	96	0	2	Acanthaceae sp	Acanthaceae
+190	3	2	11	0	50	Pseudoranthemum ludovicianum	Acanthaceae
+190	3	2	142	4	0	Corymborkis corymbis	Orchidaceae
+190	3	2	17	0	20	Acalypha neptunica	Euphobiaceae
+190	3	2	60	1	0	Leea guineesis	Leeaceae
+190	3	3	11	0	50	Pseudoranthemum ludovicianum	Acanthaceae
+190	3	3	19	1	0	Albizia grandibracteata	Leguminosae
+190	3	3	15	2	0	Argomuellera macrophylla	Euphobiaceae
+190	3	3	61	1	0	Monodora angolensis	Annonaceae
+190	3	3	56	1	0	Sapotencea sp	
+190	3	4	35	0	5	Leptapsis sp	
+190	3	4	11	0	70	Pseudoranthemum ludovicianum	Acanthaceae
+190	3	4	17	0	10	Acalypha neptunica	Euphobiaceae
+190	3	4	14	1	0	Teclea nobilis	Rutaceae
+190	3	4	10	0	2	Dracaena fragrans	Asparagaceae
+190	3	4	19	1	0	Albizia grandibracteata	Leguminosae
+190	3	4	90	1	0	Macaranga angolensis	Euphorbiaceae
+190	3	4	64	1	0	Drypetes sp	Euphorbiaceae
+190	3	4	9	2	0	Funtumia elastica	Apocynaceae
+190	3	4	12	1	0	Citropsis articulata	Rutaceae
+190	3	4	23	1	0	Ficus sur	Moraceae
+190	3	4	11	0	11	Pseudoranthemum ludovicianum	Acanthaceae
+190	3	4	14	1	0	Teclea nobilis	Rutaceae
+190	3	4	63	1	0	Coffee	Rubiaceae
+190	3	4	61	1	0	Monodora angolensis	Annonaceae
+190	3	5	10	0	5	Dracaena fragrans	Asparagaceae
+190	3	5	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+190	3	5	17	0	30	Acalypha neptunica	Euphobiaceae
+190	3	5	142	5	0	Corymborkis corymbis	Orchidaceae
+190	3	5	65	1	0	Polyscias fulva	Araliaceae
+190	3	5	7	3	0	Celtis durandii	Ulmaceae
+190	3	5	21	2	0	Alstonia boonei	Apocynaceae
+190	3	5	7	6	0	Celtis durandii	Ulmaceae
+190	3	5	66	6	0	Hibiscus calyphyllus	Malvaceae
+190	3	5	67	5	0	Ficus asperifolia	Moraceae
+190	3	5	19	1	0	Albizia grandibracteata	Leguminosae
+190	2	0	7	4	0	Celtis durandii	Ulmaceae
+190	2	1	41	1	0	Ficus exesparata	Moraceae
+190	2	0	23	2	0	Ficus sur	Moraceae
+190	2	0	39	4	0	Cordia africana	Boraginaceae
+190	2	1	11	0	70	Pseudoranthemum ludovicianum	Acanthaceae
+190	2	1	33	0	5	Broussonetia papyrifea	Moraceae
+190	2	1	45	0	5	Pollia condensata	Commelinaceae
+190	2	1	17	0	10	Acalypha neptunica	Euphobiaceae
+190	2	1	31	1	0	Maranthacloa lutea	Marantaceae
+190	2	0	33	5	0	Broussonetia papyrifea	Moraceae
+190	2	1	19	1	0	Albizia grandibracteata	Leguminosae
+190	2	2	11	0	70	Pseudoranthemum ludovicianum	Acanthaceae
+190	2	2	45	0	5	Pollia condensata	Commelinaceae
+190	2	2	33	0	10	Broussonetia papyrifea	Moraceae
+190	2	2	19	1	0	Albizia grandibracteata	Leguminosae
+190	2	3	88	0	1	Olyra latifolia	Poaceae
+190	2	3	11	0	60	Pseudoranthemum ludovicianum	Acanthaceae
+190	2	3	33	0	30	Broussonetia papyrifea	Moraceae
+190	2	3	19	1	0	Albizia grandibracteata	Leguminosae
+190	2	4	11	0	60	Pseudoranthemum ludovicianum	Acanthaceae
+190	2	4	41	0	5	Ficus exesparata	Moraceae
+190	2	4	33	0	5	Broussonetia papyrifea	Moraceae
+190	2	4	35	1	0	Leptapsis sp	
+190	4	0	19	1	0	Albizia grandibracteata	Leguminosae
+190	4	0	20	1	0	Antiaris toxicaria	Moraceae
+190	4	0	9	6	0	Funtumia elastica	Apocynaceae
+190	4	0	21	1	0	Alstonia boonei	Apocynaceae
+190	4	0	17	1	0	Acalypha neptunica	Euphobiaceae
+190	4	0	7	2	0	Celtis durandii	Ulmaceae
+190	4	0	24	3	0	Measopsi eminii	
+190	4	0	39	1	0	Cordia africana	Boraginaceae
+190	4	0	2	1	0	Celtis mildbreadii	Ulmaceae
+190	4	0	74	1	0	Croton macrostachyus	Euphorbiaceae
+190	4	1	31	3	0	Maranthacloa lutea	Marantaceae
+190	4	1	17	1	0	Acalypha neptunica	Euphobiaceae
+190	4	1	78	25	0	Aframomum mildbraedii	Zingiberaceae
+190	4	1	37	1	0	Pulsota sp	
+190	4	1	66	1	0	Hibiscus calyphyllus	Malvaceae
+190	4	1	76	1	0	Pteris burtonii	Pteridaceae
+190	4	1	75	2	0	Piper sp	Piperaceae
+190	4	1	35	2	0	Leptapsis sp	
+190	4	1	67	1	0	Ficus asperifolia	Moraceae
+190	4	1	77	1	0	Christella parasitica	Thelypteridaceae
+190	4	1	16	1	0	Culcasia falcifolia	Araceae
+190	4	2	16	1	0	Culcasia falcifolia	Araceae
+190	4	2	90	6	0	Macaranga angolensis	Euphorbiaceae
+190	4	2	73	1	0	Greenwayodendron sauveolens	Annonaceae
+190	4	2	15	1	0	Argomuellera macrophylla	Euphobiaceae
+190	4	2	35	1	0	Leptapsis sp	
+190	4	2	9	1	0	Funtumia elastica	Apocynaceae
+190	4	2	7	1	0	Celtis durandii	Ulmaceae
+190	4	2	51	6	0	Khaya anthotheca	Meliaceae
+190	4	2	14	1	0	Teclea nobilis	Rutaceae
+190	4	3	35	0	5	Leptapsis sp	
+190	4	3	37	1	0	Pulsota sp	
+190	4	3	66	0	5	Hibiscus calyphyllus	Malvaceae
+190	4	3	90	2	0	Macaranga angolensis	Euphorbiaceae
+190	4	3	9	1	0	Funtumia elastica	Apocynaceae
+190	4	3	78	10	0	Aframomum mildbraedii	Zingiberaceae
+190	4	3	73	8	0	Greenwayodendron sauveolens	Annonaceae
+190	4	3	32	1	0	Drypetes ugandensis	Euphorbiaceae
+190	4	4	90	6	0	Macaranga angolensis	Euphorbiaceae
+190	4	4	73	2	0	Greenwayodendron sauveolens	Annonaceae
+190	4	4	9	3	0	Funtumia elastica	Apocynaceae
+190	4	4	17	1	0	Acalypha neptunica	Euphobiaceae
+190	4	4	83	1	0	Celtis africana 9	Ulmaceae
+190	4	4	16	0	45	Culcasia falcifolia	Araceae
+190	4	5	66	0	10	Hibiscus calyphyllus	Malvaceae
+190	4	5	9	4	0	Funtumia elastica	Apocynaceae
+190	4	5	17	3	0	Acalypha neptunica	Euphobiaceae
+190	4	5	16	0	1	Culcasia falcifolia	Araceae
+190	4	5	90	3	0	Macaranga angolensis	Euphorbiaceae
+190	4	5	78	1	0	Aframomum mildbraedii	Zingiberaceae
+190	4	6	84	2	0	Allophyllus 10	
+190	4	6	16	0	20	Culcasia falcifolia	Araceae
+190	4	6	9	5	0	Funtumia elastica	Apocynaceae
+190	4	6	90	6	0	Macaranga angolensis	Euphorbiaceae
+190	4	6	66	3	0	Hibiscus calyphyllus	Malvaceae
+190	4	6	14	1	0	Teclea nobilis	Rutaceae
+190	4	6	72	1	0	Paulina pinnata	Sapindaceae
+190	5	1	9	2	0	Funtumia elastica	Apocynaceae
+190	5	1	10	0	20	Dracaena fragrans	Asparagaceae
+190	5	1	15	5	0	Argomuellera macrophylla	Euphobiaceae
+190	5	1	17	0	30	Acalypha neptunica	Euphobiaceae
+190	5	1	35	0	5	Leptapsis sp	
+190	5	1	11	0	5	Pseudoranthemum ludovicianum	Acanthaceae
+190	5	0	25	1	0	Celtis wightii	Ulmaceae
+190	5	0	39	1	0	Cordia africana	Boraginaceae
+190	5	0	19	1	0	Albizia grandibracteata	Leguminosae
+190	5	0	14	1	0	Teclea nobilis	Rutaceae
+190	5	0	7	1	0	Celtis durandii	Ulmaceae
+190	5	0	23	1	0	Ficus sur	Moraceae
+190	5	2	15	0	10	Argomuellera macrophylla	Euphobiaceae
+190	5	2	35	0	50	Leptapsis sp	
+190	5	2	17	0	30	Acalypha neptunica	Euphobiaceae
+190	5	2	55	0	30	Asplenium	
+190	5	2	14	0	10	Teclea nobilis	Rutaceae
+190	5	2	56	3	0	Sapotencea sp	
+190	5	2	39	1	0	Cordia africana	Boraginaceae
+190	5	3	17	0	50	Acalypha neptunica	Euphobiaceae
+190	5	3	33	0	2	Broussonetia papyrifea	Moraceae
+190	5	3	35	0	20	Leptapsis sp	
+190	5	3	75	1	0	Piper sp	Piperaceae
+190	5	4	35	0	40	Leptapsis sp	
+190	5	4	17	0	70	Acalypha neptunica	Euphobiaceae
+190	5	4	15	3	0	Argomuellera macrophylla	Euphobiaceae
+190	5	4	11	1	0	Pseudoranthemum ludovicianum	Acanthaceae
+190	5	4	67	1	0	Ficus asperifolia	Moraceae
+190	5	5	15	10	0	Argomuellera macrophylla	Euphobiaceae
+190	5	5	17	0	60	Acalypha neptunica	Euphobiaceae
+190	5	5	33	0	1	Broussonetia papyrifea	Moraceae
+190	5	5	55	0	10	Asplenium	
+190	5	5	40	1	0	Peptadeniastrum africanum	Mimosaceae
+190	5	6	15	4	0	Argomuellera macrophylla	Euphobiaceae
+190	5	6	17	0	30	Acalypha neptunica	Euphobiaceae
+190	5	6	56	1	0	Sapotencea sp	
+190	5	6	54	1	0	Euphorbia teke	Euphorbiaceae
+190	5	6	53	1	0	Strombosia scheffleri	Olacaceae
+190	6	0	9	3	0	Funtumia elastica	Apocynaceae
+190	6	0	6	1	0	Bilghia unijugata	Sapindaceae
+190	6	0	68	1	0	Zanha golungensis	Sapindaceae
+190	6	0	15	1	0	Argomuellera macrophylla	Euphobiaceae
+190	6	1	35	0	5	Leptapsis sp	
+190	6	1	15	0	40	Argomuellera macrophylla	Euphobiaceae
+190	6	1	70	1	0	Fern 13	Thelypteridaceae
+190	6	1	17	0	5	Acalypha neptunica	Euphobiaceae
+190	6	2	35	1	0	Leptapsis sp	
+190	6	2	15	4	0	Argomuellera macrophylla	Euphobiaceae
+190	6	2	50	10	0	Lindackeria schweinfurthii	Flacourtiaceae
+190	6	2	33	1	0	Broussonetia papyrifea	Moraceae
+205	36	0	102	3	0	Alchornea sp	Euphobiaceae
+205	36	1	103	1	0	Acacia pentagona	Leguminosae
+205	36	1	104	0	1	ferns	Thelypteridaceae
+205	36	2	105	1	0	collected 14	
+205	36	3	105	3	0	collected 14	
+205	36	3	104	0	2	ferns	Thelypteridaceae
+205	36	3	5	2	0	Diospyros abyssinica	Ebenaceae
+205	36	4	105	0	2	collected 14	
+204	68	0	106	1	0	Kasisa	
+204	68	1	218	1	0	Monanthotaxis littoralis	Annonaceae
+204	68	2	103	1	0	Acacia pentagona	Leguminosae
+204	68	2	108	1	0	collected 5	
+204	68	3	109	1	0	unknown shrub	
+205	37	1	5	6	0	Diospyros abyssinica	Ebenaceae
+205	37	2	103	1	0	Acacia pentagona	Leguminosae
+205	37	3	110	1	0	collected 16	
+205	37	3	5	4	0	Diospyros abyssinica	Ebenaceae
+205	37	3	111	0	1	Stanfieldiella imperforata	Commelinaceae
+205	37	4	112	1	0	Albizia sp	Leguminosae
+205	37	4	111	1	0	Stanfieldiella imperforata	Commelinaceae
+205	37	4	113	1	0	Trifoliate shrub 17	
+205	37	5	114	1	0	Venornia sp	Asteraceae
+205	37	5	115	0	1	climber 18	
+205	37	5	116	1	0	collected 19	
+205	37	5	5	1	0	Diospyros abyssinica	Ebenaceae
+206	27	1	117	1	0	Eleptapsis sp	Poaceae
+206	27	3	112	1	0	Albizia sp	Leguminosae
+206	27	3	118	1	0	Combretum paniculata	Combretaceae
+206	27	6	119	1	0	Albizia glaberrima	Leguminosae
+206	27	6	103	1	0	Acacia pentagona	Leguminosae
+206	27	4	27	1	0	Myrianthus holstii	Moraceae
+206	27	5	120	1	0	Dicrotella	
+206	30	1	121	1	0	Allophyllus dummeri	Sapindaceae
+206	30	1	122	0	2	Pteris 15	Pteridaceae
+206	30	2	103	1	0	Acacia pentagona	Leguminosae
+206	30	2	123	1	0	Psydrax sp.	Rubiaceae
+206	30	2	110	1	0	collected 16	
+206	30	4	103	1	0	Acacia pentagona	Leguminosae
+206	31	1	124	3	0	Impatients naimiamensis	Balsaminaceae
+206	31	1	142	1	0	Corymborkis corymbis	Orchidaceae
+206	31	3	123	2	0	Psydrax sp.	Rubiaceae
+206	31	4	123	1	0	Psydrax sp.	Rubiaceae
+206	31	4	105	1	0	collected 14	
+206	31	5	118	1	0	Combretum paniculata	Combretaceae
+206	31	5	103	1	0	Acacia pentagona	Leguminosae
+206	32	2	103	1	0	Acacia pentagona	Leguminosae
+206	32	3	103	2	0	Acacia pentagona	Leguminosae
+206	32	3	126	1	0	Allophyllus ferrugineus	Sapindaceae
+206	32	5	214	1	0	Carapa procera	Meliaceae
+206	39	1	142	1	0	Corymborkis corymbis	Orchidaceae
+206	39	1	111	1	0	Stanfieldiella imperforata	Commelinaceae
+206	39	1	128	1	0	colected 23	
+206	39	1	129	1	0	Allophyllus sp	Sapindaceae
+206	39	4	219	1	0	Corymborkis corymbis	Orchidaceae
+206	39	4	206	1	0	Salacia elegans	Celestraceae
+206	39	4	103	1	0	Acacia pentagona	Leguminosae
+206	39	2	40	1	0	Peptadeniastrum africanum	Mimosaceae
+206	39	2	103	1	0	Acacia pentagona	Leguminosae
+206	39	3	40	3	0	Peptadeniastrum africanum	Mimosaceae
+207	62	1	203	0	1	Boltis auriculata	Lomariopsidaceae
+207	62	3	129	1	0	Allophyllus sp	Sapindaceae
+207	62	4	218	1	0	Monanthotaxis littoralis	Annonaceae
+207	62	5	103	1	0	Acacia pentagona	Leguminosae
+207	63	0	40	1	0	Peptadeniastrum africanum	Mimosaceae
+207	63	1	103	1	0	Acacia pentagona	Leguminosae
+207	63	1	118	0	2	Combretum paniculata	Combretaceae
+207	63	5	132	1	0	Oxyanthus speciosus	Rubiaceae
+207	63	5	218	1	0	Monanthotaxis littoralis	Annonaceae
+226	20	0	133	1	0	Margantaria discoides	
+226	20	1	134	0	30	Costus afer	Zingiberaceae
+226	20	1	135	0	5	Thurmbergia vogeliana	Acanthaceae
+226	20	1	136	0	5	Clerodendrum formicarum	Verbenaceae
+226	20	1	103	1	0	Acacia pentagona	Leguminosae
+226	20	1	137	1	0	Phoenix reclinata	Arecaceae
+226	20	2	138	0	1	Urera trinervis	Urticaceae
+226	20	2	139	1	0	Arthropteris orientalis	Polypodiaceae
+226	20	3	140	0	5	Annonacia sp	Annoncaceae
+226	20	3	137	1	0	Phoenix reclinata	Arecaceae
+226	20	3	139	1	0	Arthropteris orientalis	Polypodiaceae
+226	20	3	135	0	2	Thurmbergia vogeliana	Acanthaceae
+226	20	3	51	1	0	Khaya anthotheca	Meliaceae
+226	20	3	141	1	0	Climber 28	
+226	20	4	134	0	5	Costus afer	Zingiberaceae
+226	20	4	137	1	0	Phoenix reclinata	Arecaceae
+226	20	4	135	0	2	Thurmbergia vogeliana	Acanthaceae
+226	21	1	103	1	0	Acacia pentagona	Leguminosae
+226	21	2	142	0	5	Corymborkis corymbis	Orchidaceae
+226	21	5	139	1	0	Arthropteris orientalis	Polypodiaceae
+226	21	5	137	1	0	Phoenix reclinata	Arecaceae
+226	21	5	143	1	0	Big fern	
+226	40	1	144	1	0	Collected 26	
+226	40	2	103	1	0	Acacia pentagona	Leguminosae
+226	41	1	144	1	0	Collected 26	
+226	41	4	103	1	0	Acacia pentagona	Leguminosae
+226	41	5	103	1	0	Acacia pentagona	Leguminosae
+177	55	1	102	1	0	Alchornea sp	Euphobiaceae
+177	55	2	111	0	2	Stanfieldiella imperforata	Commelinaceae
+177	55	2	5	1	0	Diospyros abyssinica	Ebenaceae
+177	55	4	111	0	1	Stanfieldiella imperforata	Commelinaceae
+177	56	0	24	1	0	Measopsi eminii	
+177	56	4	145	0	1	Trifoliate fern	
+177	74	0	146	2	0	Croton sp	Euphorbiaceae
+177	74	2	147	0	1	Bombo	
+177	74	3	150	1	0	Climber 17	
+177	74	3	194	0	1	Cissus  sp	Vitaceae
+177	78	0	133	1	0	Margantaria discoides	
+177	78	0	148	1	0	purple stem	
+177	78	1	5	1	0	Diospyros abyssinica	Ebenaceae
+177	78	5	151	1	0	Harugana madgascar	Melastomataceae
+177	78	3	155	1	0	Chantime aristofolia	
+181	11	1	17	0	5	Acalypha neptunica	Euphobiaceae
+181	11	1	149	5	0	Dracaena laxima	Asparagaceae
+181	11	2	150	1	0	Climber 17	
+181	11	5	151	0	30	Harugana madgascar	Melastomataceae
+181	14	1	153	1	0	Solanum mauritianum	Solanaceae
+181	14	1	154	1	0	Tetracera potatoria	Dillenianceae
+181	14	1	61	1	0	Monodora angolensis	Annonaceae
+181	14	2	155	1	0	Chantime aristofolia	
+181	14	2	156	1	0	Illegera penthaphyla	Hernandiaceae
+181	14	2	157	1	0	Celestacea sp 23	
+181	14	2	126	1	1	Allophyllus ferrugineus	Sapindaceae
+181	14	3	103	1	0	Acacia pentagona	Leguminosae
+181	14	3	158	1	0	Dicliptell alexanhus	
+181	14	3	155	1	0	Chantime aristofolia	
+181	14	3	159	1	0	Dovyalis macrocalyx	Flacourtiaceae
+181	14	4	150	1	0	Climber 17	
+181	14	4	156	1	0	Illegera penthaphyla	Hernandiaceae
+181	14	4	160	1	0	Allostoclea sp.	
+181	14	6	161	3	0	Collected 25	
+181	14	6	147	0	1	Bombo	
+181	13	1	103	1	0	Acacia pentagona	Leguminosae
+181	13	2	155	1	0	Chantime aristofolia	
+181	13	2	162	1	0	Euphorbiacea 27	Euphorbiaceae
+181	13	2	163	1	0	Phytolacca dend	Phytolaccaceae
+181	13	2	164	1	0	Mondia whitei	Asclepiadaceae
+181	13	3	155	1	0	Chantime aristofolia	
+181	13	4	155	1	0	Chantime aristofolia	
+181	13	5	72	1	0	Paulina pinnata	Sapindaceae
+181	71	1	51	1	0	Khaya anthotheca	Meliaceae
+181	71	2	155	1	0	Chantime aristofolia	
+181	71	3	155	1	0	Chantime aristofolia	
+181	71	3	112	1	0	Albizia sp	Leguminosae
+181	71	3	51	1	0	Khaya anthotheca	Meliaceae
+181	71	4	166	1	0	Albizia zygia	Leguminosae
+181	71	5	155	1	0	Chantime aristofolia	
+181	71	5	154	0	1	Tetracera potatoria	Dillenianceae
+181	71	6	154	0	1	Tetracera potatoria	Dillenianceae
+189	52	0	148	2	0	purple stem	
+189	52	0	5	2	0	Diospyros abyssinica	Ebenaceae
+189	52	1	167	1	0	Albizia 11	Leguminosae
+189	52	1	168	1	0	Mahogany utile	Meliaceae
+189	52	1	73	1	0	Greenwayodendron sauveolens	Annonaceae
+189	52	3	104	0	2	ferns	Thelypteridaceae
+189	52	3	134	1	0	Costus afer	Zingiberaceae
+189	52	5	73	1	0	Greenwayodendron sauveolens	Annonaceae
+189	52	5	169	1	0	Habenaria  genuflexa	Orchidaceae
+189	52	6	104	0	20	ferns	Thelypteridaceae
+189	71	0	170	1	0	Desplatsia mildbraedii	Tiliaceae
+189	7	0	101	1	0	Euphobiacea 28	Euphorbiaceae
+189	7	0	172	1	0	Milettia excelsum	Papilionaceae
+189	7	1	173	1	0	Monanthotaxi ferruginea	Annonaceae
+189	7	1	174	1	0	Psydrax pariviflora	Rubiaceae
+189	7	2	88	1	0	Olyra latifolia	Poaceae
+189	7	2	153	1	0	Solanum mauritianum	Solanaceae
+189	7	3	175	0	5	Climber 32	
+189	7	3	103	0	5	Acacia pentagona	Leguminosae
+189	7	3	177	1	0	Climber 33	
+189	7	3	178	1	0	Psydrax schimperiana	Rubiaceae
+189	7	4	179	1	0	Celtis africana	Ulmaceae
+189	7	5	104	1	0	ferns	Thelypteridaceae
+189	7	6	123	1	0	Psydrax sp.	Rubiaceae
+189	7	6	180	0	2	Doryopteris	Adiantaceae
+189	7	6	181	0	4	Pseudochinoclea sp	Poaceae
+189	1	2	51	1	0	Khaya anthotheca	Meliaceae
+189	1	2	182	1	0	Collected 9	
+189	1	3	103	0	1	Acacia pentagona	Leguminosae
+189	1	4	111	1	0	Stanfieldiella imperforata	Commelinaceae
+189	50	0	183	2	0	Small leaves 1	
+189	50	0	184	2	0	small leaves 2	
+189	50	1	151	1	0	Harugana madgascar	Melastomataceae
+189	50	1	104	0	1	ferns	Thelypteridaceae
+189	50	1	185	1	0	Collected 3	
+189	50	2	168	1	0	Mahogany utile	Meliaceae
+189	50	2	186	1	0	Climber 31	
+189	50	3	64	1	0	Drypetes sp	Euphorbiaceae
+189	50	3	181	0	1	Pseudochinoclea sp	Poaceae
+189	50	4	104	0	1	ferns	Thelypteridaceae
+189	50	5	108	3	0	collected 5	
+189	50	5	19	1	0	Albizia grandibracteata	Leguminosae
+189	50	6	103	1	0	Acacia pentagona	Leguminosae
+189	50	6	104	0	1	ferns	Thelypteridaceae
+189	50	6	187	4	0	Climber 3	
+189	53	1	187	0	5	Climber 3	
+189	53	2	187	0	5	Climber 3	
+189	53	3	188	1	0	Celtis sp	Ulmaceae
+189	53	4	187	1	0	Climber 3	
+189	53	4	188	1	0	Celtis sp	Ulmaceae
+189	53	5	187	1	0	Climber 3	
+189	53	5	5	1	0	Diospyros abyssinica	Ebenaceae
+190	3	0	5	1	0	Diospyros abyssinica	Ebenaceae
+190	3	0	188	5	0	Celtis sp	Ulmaceae
+190	3	1	157	0	2	Celestacea sp 23	
+190	3	1	142	6	0	Corymborkis corymbis	Orchidaceae
+190	3	1	190	1	0	Meliacia sp	Papilionaceae
+190	3	1	191	1	0	Climber 40	
+190	3	2	103	1	0	Acacia pentagona	Leguminosae
+190	3	3	192	1	0	Collected 41	
+190	2	0	5	1	0	Diospyros abyssinica	Ebenaceae
+190	2	2	136	1	0	Clerodendrum formicarum	Verbenaceae
+190	2	2	169	1	0	Habenaria  genuflexa	Orchidaceae
+190	2	3	104	1	0	ferns	Thelypteridaceae
+190	2	3	193	1	0	Smilax anceps	Smilacaceae
+190	2	4	193	1	0	Smilax anceps	Smilacaceae
+190	2	4	5	1	0	Diospyros abyssinica	Ebenaceae
+190	2	4	138	0	1	Urera trinervis	Urticaceae
+190	2	4	10	3	0	Dracaena fragrans	Asparagaceae
+190	2	4	151	1	0	Harugana madgascar	Melastomataceae
+190	2	4	194	1	0	Cissus  sp	Vitaceae
+190	4	0	73	1	0	Greenwayodendron sauveolens	Annonaceae
+190	4	1	195	1	0	Milletia psilopetala	Papilionaceae
+190	4	6	84	2	0	Allophyllus 10	
+190	4	6	188	1	0	Celtis sp	Ulmaceae
+190	5	5	10	0	20	Dracaena fragrans	Asparagaceae
+190	5	5	197	1	0	Trichilia prieureanea	Meliaceae
+190	5	6	10	0	50	Dracaena fragrans	Asparagaceae
+190	5	1	104	0	5	ferns	Thelypteridaceae
+190	5	1	88	0	1	Olyra latifolia	Poaceae
+190	5	1	4	2	0	Malnilkara dawei	Sapotaceae
+190	5	2	10	0	50	Dracaena fragrans	Asparagaceae
+190	5	2	88	0	2	Olyra latifolia	Poaceae
+190	5	3	10	0	10	Dracaena fragrans	Asparagaceae
+190	5	3	88	1	0	Olyra latifolia	Poaceae
+190	5	4	10	0	5	Dracaena fragrans	Asparagaceae
+190	5	4	88	3	0	Olyra latifolia	Poaceae
+190	6	0	188	1	0	Celtis sp	Ulmaceae
+190	6	1	10	0	10	Dracaena fragrans	Asparagaceae
+190	6	1	111	1	0	Stanfieldiella imperforata	Commelinaceae
+190	6	1	188	1	0	Celtis sp	Ulmaceae
+190	6	2	188	0	20	Celtis sp	Ulmaceae
+204	68	0	208	1	0	Nuxia congesta	Loganiaceae
+204	68	0	173	1	0	Monanthotaxi ferruginea	Annonaceae
+204	68	1	207	1	0	Begonia eminni	Begoniaceae
+206	30	1	121	1	0	Allophyllus dummeri	Sapindaceae
+206	30	1	201	0	2	Thelypteris sp.	Thelypteridaceae
+206	30	2	205	1	0	Ochna membranacea	Ochnaceae
+206	28	2	45	1	0	Pollia condensata	Commelinaceae
+206	27	3	48	1	0	Caelsalpinia bonduc	Caesalpinaceae
+206	32	4	121	1	0	Allophyllus dummeri	Sapindaceae
+206	39	5	214	1	0	Carapa procera	Meliaceae
+206	39	1	214	1	0	Carapa procera	Meliaceae
+207	62	3	121	1	0	Allophyllus dummeri	Sapindaceae
+226	41	0	204	1	0	Ouratea densifolia	Ochnaceae
+226	40	0	204	1	0	Ouratea densifolia	Ochnaceae
+226	20	1	135	0	5	Thurmbergia vogeliana	Acanthaceae
+226	20	2	138	0	1	Urera trinervis	Urticaceae
+226	20	3	212	1	0	Pycrenantha sylvestris	Icacinaceae
+181	12	3	227	1	0	Albizia odoratissima	Mimosaceae
+189	7	1	218	1	0	Monanthotaxis littoralis	Annonaceae
+189	7	1	174	1	0	Psydrax pariviflora	Rubiaceae
+190	3	1	142	6	0	Corymborkis corymbis	Orchidaceae
+190	2	1	222	1	0	Adenia sp.	Passifloraceae
+190	3	1	232	1	0	Entandrophragma cylindricum	Meliaceae
+190	3	1	223	0	1	Cynanchum polyanthum	Ascelpiadaceae
+190	3	3	87	1	0	Tacca leontopetaloides	Taccaceae
+190	2	1	226	4	0	Kleinhovia hospitata	Sterculiaceae
+190	2	4	138	0	1	Urera trinervis	Urticaceae
+190	4	2	170	1	0	Desplatsia mildbraedii	Tiliaceae
+190	4	6	234	10	0	Cyathula achyranthoides	Amaranthaceae
+190	4	6	235	1	0	Diplocyclos palmatus	Cucurbitaceae
+189	7	3	236		5	Rhaphiostylis beninensis	Icacinaceae
