@@ -1,4 +1,4 @@
-source("\\\\helix.klient.uib.no\\biohome\\aey022\\rdata\\Budongo\\moreen fragments load data.r")
+source("moreen fragments load data.r")
 #note to self: power analyses for correlation tests are easy. Do them at least for the env vars!
 #also note to self: no pont doing HShann and diversity, they are RIDICULOUSLY correlated 0.977 P=0.0002
 

@@ -1,4 +1,4 @@
-source("\\\\helix.klient.uib.no\\biohome\\aey022\\rdata\\Budongo\\moreen fragments load data.r")
+source("moreen fragments load data.r")
 library(vegan)
 dca21<-decorana(spp)#axis length 2.53
 dca21

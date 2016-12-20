@@ -1,7 +1,5 @@
 library(vegan)
 library(Hmisc)
-setwd("\\\\helix.klient.uib.no\\biohome\\aey022\\rdata\\Budongo") 
-#load data
 sppthin<-read.csv( "Mist netting data1.csv", row.names=1)
 head(sppthin)           
 str(sppthin)

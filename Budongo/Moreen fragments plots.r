@@ -1,4 +1,4 @@
-source("\\\\helix.klient.uib.no\\biohome\\aey022\\rdata\\Budongo\\moreen fragments load data.r")
+source("moreen fragments load data.r")
 
 #Here are the spotplots in threes with range bars (some in colour, some not) for ind transects. They run till line 77-ish. Figure 2 is about line 166, Figure 4 is 209
 
