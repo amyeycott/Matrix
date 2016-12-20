@@ -1,3 +1,4 @@
+#this is not Budongo data, but Kibale data on chimp feeding phenology. It is placed here for convenience.
 #load the data (I have messed around with the excel file a bit beforehand - taken away the graph and replaces spaces with underscores in the column names)
 library(readxl)
 foods<-read_excel("Data for the graph.xls", sheet=1,col_names = TRUE)
