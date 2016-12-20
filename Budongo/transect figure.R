@@ -44,3 +44,18 @@ lines(c(400,400), c(-20,-38))
 savePlot("Uwimbabazi Fig 1 inset transect.eps", type="eps")
 savePlot("Uwimbabazi Fig 1 inset transect.pdf", type="pdf")
 savePlot("Uwimbabazi Fig 1 inset transect.emf", type="emf")
+
+#figure on temporal patterns in sampling
+source("moreen fragments load data.r")
+library(ggplot2)
+library(tidyr)
+
+unique(sppthin$Date)
+forblobplot<-as.data.frame(unclass(table(sppthin$Date, sppthin$plot)))
+head(forblobplot)
+forblobplot$date<-rownames(forblobplot)     
+forblobplot2<-gather(forblobplot,"transect","count", 1:21)
+forblobplot2<-forblobplot2[!forblobplot2$count==0,]
+
+plotty<-ggplot(forblobplot2, aes(x=transect, y=date))
+plotty+ geom_point()
