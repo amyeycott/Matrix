@@ -1,5 +1,7 @@
 #tiny things that got done in excel: Christella dentata capitalised in Gogonya 2, 'dead' row deleted from end of env file. Easting from the first occurrence of Mpanga 21 placed into empty easting field for Mpanga 20, and easting from the northing field of the second line for Mpanga 21 placed into easting for the first line and then second line deleted (not serious because we only use this to plot where sites were, if at all - not analytical info unless we start distance analyses.)
 
+#test line
+
 library(readxl)
 ferns.thindf<-as.data.frame(read_excel("MAIN MATRIX DATA SEPT 16.xls"))
 fernenv.df<-as.data.frame(read_excel("MATRIX Fern-Environmental  data 16 final.xls"))#gives warnings of NA when expecting numeric, due to empty fields - can ignore.
