@@ -49,13 +49,18 @@ savePlot("Uwimbabazi Fig 1 inset transect.emf", type="emf")
 source("moreen fragments load data.r")
 library(ggplot2)
 library(tidyr)
+library(lubridate)
 
 unique(sppthin$Date)
+sppthin$Date<-lubridate::dmy(sppthin$Date)
 forblobplot<-as.data.frame(unclass(table(sppthin$Date, sppthin$plot)))
 head(forblobplot)
 forblobplot$date<-rownames(forblobplot)     
 forblobplot2<-gather(forblobplot,"transect","count", 1:21)
 forblobplot2<-forblobplot2[!forblobplot2$count==0,]
-
+x11();
 plotty<-ggplot(forblobplot2, aes(x=transect, y=date))
-plotty+ geom_point()
+plotty+ geom_point()+ theme(axis.text.x = element_text(angle = 60, hjust = 1))
+
+savePlot("oh dear.pdf", type="pdf")
+savePlot("sampling date structure.emf", type="emf")
