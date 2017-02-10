@@ -147,11 +147,20 @@ anova(betadisper) #ns
 distmat<-as.matrix(distmat)
 distmat
 
-
 #power analysis
-
 power.t.test(n = NULL, delta=(19.17-13.33),sd=4.26, sig.level=0.05, power=0.8, type="two.sample")#just for interest, this is testing how to get a difference in spprich using the means for farm (largest of all means) and sugarcane(smallest of all means) using the larger of the two sd's. It says n=9.41, ie we'd need two more forests (might have come close with one more forest, n=9)
 
+##new analyses for 2017 response
+#recap: total is by transect while sums is by forest. Spp is the composition matrix by transect, sppagg is the composition matrix by forest. So spp makes total, sppagg makes sums.
 
+total$Shannon<-diversity(spp)
+total$HillN1<-exp(diversity(spp))
+total$Simpson<-diversity(spp, index = "simpson")
+total$HillN2<-diversity(spp, index = "invsimpson")
+
+
+library("Hmisc")
+res1 <- rcorr(as.matrix(total[c("spprich","rarefied","HillN1", "HillN2")]))
+res2type<- rcorr(as.matrix(total[c("spprich","rarefied","HillN1", "HillN2")]), type="spearman")
 
 
